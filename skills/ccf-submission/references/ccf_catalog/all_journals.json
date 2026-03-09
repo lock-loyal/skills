@@ -1,0 +1,2952 @@
+[
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "期刊",
+    "class": "A",
+    "rank": 1,
+    "abbreviation": "TOCS",
+    "full_name": "ACMTransactionsonComputerSystems",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/journals/tocs/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "期刊",
+    "class": "A",
+    "rank": 2,
+    "abbreviation": "TOS",
+    "full_name": "ACMTransactionsonStorage",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/journals/tos/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "期刊",
+    "class": "A",
+    "rank": 3,
+    "abbreviation": "TCAD",
+    "full_name": "IEEETransactionsonComputer-AidedDesignofIntegratedCircuitsandSystems",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/journals/tcad/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "期刊",
+    "class": "A",
+    "rank": 4,
+    "abbreviation": "TC",
+    "full_name": "IEEETransactionsonComputers",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/journals/tc/index.html"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "期刊",
+    "class": "A",
+    "rank": 5,
+    "abbreviation": "TPDS",
+    "full_name": "IEEETransactionsonParallelandDistributedSystems",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/journals/tpds/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "期刊",
+    "class": "A",
+    "rank": 6,
+    "abbreviation": "TACO",
+    "full_name": "ACMTransactionsonArchitectureandCodeOptimization",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/journals/taco/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "期刊",
+    "class": "B",
+    "rank": 1,
+    "abbreviation": "TAAS",
+    "full_name": "ACMTransactionsonAutonomousandAdaptiveSystems",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/journals/taas/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "期刊",
+    "class": "B",
+    "rank": 2,
+    "abbreviation": "TODAES",
+    "full_name": "ACMTransactionsonDesignAutomationofElectronicSystems",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/journals/todaes/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "期刊",
+    "class": "B",
+    "rank": 3,
+    "abbreviation": "TECS",
+    "full_name": "ACMTransactionsonEmbeddedComputingSystems",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/journals/tecs/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "期刊",
+    "class": "B",
+    "rank": 4,
+    "abbreviation": "TRETS",
+    "full_name": "ACMTransactionsonReconfigurableTechnologyandSystems",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/journals/trets/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "期刊",
+    "class": "B",
+    "rank": 5,
+    "abbreviation": "TVLSI",
+    "full_name": "IEEETransactionsonVeryLargeScaleIntegration(VLSI)Systems",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/journals/tvlsi/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "期刊",
+    "class": "B",
+    "rank": 6,
+    "abbreviation": "JPDC",
+    "full_name": "JournalofParallelandDistributedComputing",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/jpdc/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "期刊",
+    "class": "B",
+    "rank": 7,
+    "abbreviation": "JSA",
+    "full_name": "JournalofSystemsArchitecture:EmbeddedSoftwareDesign",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/jsa/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "期刊",
+    "class": "B",
+    "rank": 8,
+    "abbreviation": "",
+    "full_name": "ParallelComputing",
+    "publisher": "Elsevier",
+    "url": "https://dblp.org/db/journals/pc/index.html"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "期刊",
+    "class": "B",
+    "rank": 9,
+    "abbreviation": "",
+    "full_name": "PerformanceEvaluation:AnInternationalJournal",
+    "publisher": "Elsevier",
+    "url": "https://dblp.org/db/journals/pe/index.html"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "期刊",
+    "class": "B",
+    "rank": 10,
+    "abbreviation": "TCC",
+    "full_name": "IEEETransactionsonCloudComputing",
+    "publisher": "IEEE",
+    "url": "https://dblp.uni-trier.de/db/journals/tcc/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "期刊",
+    "class": "C",
+    "rank": 1,
+    "abbreviation": "JETC",
+    "full_name": "ACMJournalonEmergingTechnologiesinComputingSystems",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/journals/jetc/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "期刊",
+    "class": "C",
+    "rank": 2,
+    "abbreviation": "",
+    "full_name": "ConcurrencyandComputation:PracticeandExperience",
+    "publisher": "Wiley",
+    "url": "http://dblp.uni-trier.de/db/journals/concurrency/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "期刊",
+    "class": "C",
+    "rank": 3,
+    "abbreviation": "DC",
+    "full_name": "DistributedComputing",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/dc/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "期刊",
+    "class": "C",
+    "rank": 4,
+    "abbreviation": "FGCS",
+    "full_name": "FutureGenerationComputerSystems",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/fgcs"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "期刊",
+    "class": "C",
+    "rank": 5,
+    "abbreviation": "Integration",
+    "full_name": "Integration,theVLSIJournal",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/integration"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "期刊",
+    "class": "C",
+    "rank": 6,
+    "abbreviation": "JETTA",
+    "full_name": "JournalofElectronicTesting-TheoryandApplications",
+    "publisher": "Springer",
+    "url": "https://dblp.org/db/journals/et/index.html"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "期刊",
+    "class": "C",
+    "rank": 7,
+    "abbreviation": "JGC",
+    "full_name": "JournalofGridcomputing",
+    "publisher": "Springer",
+    "url": "https://dblp.uni-trier.de/db/journals/grid/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "期刊",
+    "class": "C",
+    "rank": 8,
+    "abbreviation": "RTS",
+    "full_name": "Real-TimeSystems",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/rts/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "期刊",
+    "class": "C",
+    "rank": 9,
+    "abbreviation": "TJSC",
+    "full_name": "TheJournalofSupercomputing",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/tjs/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "期刊",
+    "class": "C",
+    "rank": 10,
+    "abbreviation": "TCASI",
+    "full_name": "IEEETransactionsonCircuitsandSystemsI:RegularPapers",
+    "publisher": "IEEE",
+    "url": "https://dblp.org/db/journals/tcasI/index.html"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "期刊",
+    "class": "C",
+    "rank": 11,
+    "abbreviation": "CCF-\nTHPC",
+    "full_name": "CCFTransactionsonHighPerformanceComputing",
+    "publisher": "CCF",
+    "url": "https://dblp.org/db/journals/ccfthpc/index.html"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "期刊",
+    "class": "C",
+    "rank": 12,
+    "abbreviation": "TSUSC",
+    "full_name": "IEEETransactionsonSustainableComputing",
+    "publisher": "IEEE",
+    "url": "https://dblp.org/db/journals/tsusc/index.html"
+  },
+  {
+    "field": "计算机网络",
+    "type": "期刊",
+    "class": "A",
+    "rank": 1,
+    "abbreviation": "JSAC",
+    "full_name": "IEEEJournalonSelectedAreasinCommunications",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/journals/jsac/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "期刊",
+    "class": "A",
+    "rank": 2,
+    "abbreviation": "TMC",
+    "full_name": "IEEETransactionsonMobileComputing",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/journals/tmc/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "期刊",
+    "class": "A",
+    "rank": 3,
+    "abbreviation": "TON",
+    "full_name": "IEEE/ACMTransactionsonNetworking",
+    "publisher": "IEEE/\nACM",
+    "url": "http://dblp.uni-trier.de/db/journals/ton/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "期刊",
+    "class": "B",
+    "rank": 1,
+    "abbreviation": "TOIT",
+    "full_name": "ACMTransactionsonInternetTechnology",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/journals/toit/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "期刊",
+    "class": "B",
+    "rank": 2,
+    "abbreviation": "TOMM",
+    "full_name": "ACMTransactionsonMultimediaComputing,CommunicationsandApplications",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/journals/tomccap/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "期刊",
+    "class": "B",
+    "rank": 3,
+    "abbreviation": "TOSN",
+    "full_name": "ACMTransactionsonSensorNetworks",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/journals/tosn/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "期刊",
+    "class": "B",
+    "rank": 4,
+    "abbreviation": "CN",
+    "full_name": "ComputerNetworks",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/cn/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "期刊",
+    "class": "B",
+    "rank": 5,
+    "abbreviation": "TCOM",
+    "full_name": "IEEETransactionsonCommunications",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/journals/tcom/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "期刊",
+    "class": "B",
+    "rank": 6,
+    "abbreviation": "TWC",
+    "full_name": "IEEETransactionsonWirelessCommunications",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/journals/twc/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "期刊",
+    "class": "C",
+    "rank": 1,
+    "abbreviation": "",
+    "full_name": "AdHocNetworks",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/adhoc/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "期刊",
+    "class": "C",
+    "rank": 2,
+    "abbreviation": "CC",
+    "full_name": "ComputerCommunications",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/comcom/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "期刊",
+    "class": "C",
+    "rank": 3,
+    "abbreviation": "TNSM",
+    "full_name": "IEEETransactionsonNetworkandServiceManagement",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/journals/tnsm/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "期刊",
+    "class": "C",
+    "rank": 4,
+    "abbreviation": "",
+    "full_name": "IETCommunications",
+    "publisher": "IET",
+    "url": "http://dblp.uni-trier.de/db/journals/iet-com/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "期刊",
+    "class": "C",
+    "rank": 5,
+    "abbreviation": "JNCA",
+    "full_name": "JournalofNetworkandComputerApplications",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/jnca/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "期刊",
+    "class": "C",
+    "rank": 6,
+    "abbreviation": "MONET",
+    "full_name": "MobileNetworksandApplications",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/monet/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "期刊",
+    "class": "C",
+    "rank": 7,
+    "abbreviation": "",
+    "full_name": "Networks",
+    "publisher": "Wiley",
+    "url": "http://dblp.uni-trier.de/db/journals/networks/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "期刊",
+    "class": "C",
+    "rank": 8,
+    "abbreviation": "PPNA",
+    "full_name": "Peer-to-PeerNetworkingandApplications",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/ppna/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "期刊",
+    "class": "C",
+    "rank": 9,
+    "abbreviation": "WCMC",
+    "full_name": "WirelessCommunicationsandMobileComputing",
+    "publisher": "Wiley",
+    "url": "http://dblp.uni-trier.de/db/journals/wicomm/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "期刊",
+    "class": "C",
+    "rank": 10,
+    "abbreviation": "",
+    "full_name": "WirelessNetworks",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/winet/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "期刊",
+    "class": "C",
+    "rank": 11,
+    "abbreviation": "IOT",
+    "full_name": "IEEEInternetofThingsJournal",
+    "publisher": "IEEE",
+    "url": "https://dblp.org/db/journals/iotj/index.html"
+  },
+  {
+    "field": "计算机网络",
+    "type": "期刊",
+    "class": "C",
+    "rank": 12,
+    "abbreviation": "TIOT",
+    "full_name": "ACMTransactionsonInternetofThings",
+    "publisher": "ACM",
+    "url": "https://dblp.uni-trier.de/db/journals/tiot/index.html"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "期刊",
+    "class": "A",
+    "rank": 1,
+    "abbreviation": "TDSC",
+    "full_name": "IEEETransactionsonDependableandSecureComputing",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/journals/tdsc/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "期刊",
+    "class": "A",
+    "rank": 2,
+    "abbreviation": "TIFS",
+    "full_name": "IEEETransactionsonInformationForensicsandSecurity",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/journals/tifs/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "期刊",
+    "class": "A",
+    "rank": 3,
+    "abbreviation": "",
+    "full_name": "JournalofCryptology",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/joc/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "期刊",
+    "class": "B",
+    "rank": 1,
+    "abbreviation": "TOPS",
+    "full_name": "ACMTransactionsonPrivacyandSecurity",
+    "publisher": "ACM",
+    "url": "https://dblp.org/db/journals/tissec/index.html"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "期刊",
+    "class": "B",
+    "rank": 2,
+    "abbreviation": "",
+    "full_name": "Computers&Security",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/compsec/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "期刊",
+    "class": "B",
+    "rank": 3,
+    "abbreviation": "",
+    "full_name": "Designs,CodesandCryptography",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/dcc/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "期刊",
+    "class": "B",
+    "rank": 4,
+    "abbreviation": "JCS",
+    "full_name": "JournalofComputerSecurity",
+    "publisher": "IOSPress",
+    "url": "http://dblp.uni-trier.de/db/journals/jcs/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "期刊",
+    "class": "B",
+    "rank": 5,
+    "abbreviation": "Cybersecurity",
+    "full_name": "Cybersecurity",
+    "publisher": "中国科学院信\n息工程研究所\n/科学出版社",
+    "url": "https://dblp.uni-trier.de/db/journals/cybersec/index.html"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "期刊",
+    "class": "C",
+    "rank": 1,
+    "abbreviation": "CLSR",
+    "full_name": "ComputerLaw&SecurityReview",
+    "publisher": "Elsevier",
+    "url": "https://dblp.org/db/journals/clsr/index.html"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "期刊",
+    "class": "C",
+    "rank": 2,
+    "abbreviation": "",
+    "full_name": "EURASIPJournalonInformationSecurity",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/ejisec/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "期刊",
+    "class": "C",
+    "rank": 3,
+    "abbreviation": "",
+    "full_name": "IETInformationSecurity",
+    "publisher": "IET",
+    "url": "http://dblp.uni-trier.de/db/journals/iet-ifs/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "期刊",
+    "class": "C",
+    "rank": 4,
+    "abbreviation": "IMCS",
+    "full_name": "InformationandComputerSecurity",
+    "publisher": "Emerald",
+    "url": "http://dblp.uni-trier.de/db/journals/imcs/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "期刊",
+    "class": "C",
+    "rank": 5,
+    "abbreviation": "IJICS",
+    "full_name": "InternationalJournalofInformationandComputerSecurity",
+    "publisher": "Inderscience",
+    "url": "http://dblp.uni-trier.de/db/journals/ijics/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "期刊",
+    "class": "C",
+    "rank": 6,
+    "abbreviation": "IJISP",
+    "full_name": "InternationalJournalofInformationSecurityandPrivacy",
+    "publisher": "IGIGlobal",
+    "url": "http://dblp.uni-trier.de/db/journals/ijisp/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "期刊",
+    "class": "C",
+    "rank": 7,
+    "abbreviation": "JISA",
+    "full_name": "JournalofInformationSecurityandApplications",
+    "publisher": "Elsevier",
+    "url": "https://dblp.uni-trier.de/db/journals/istr/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "期刊",
+    "class": "C",
+    "rank": 8,
+    "abbreviation": "SCN",
+    "full_name": "SecurityandCommunicationNetworks",
+    "publisher": "Wiley",
+    "url": "http://dblp.uni-trier.de/db/journals/scn/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "期刊",
+    "class": "C",
+    "rank": 9,
+    "abbreviation": "HCC",
+    "full_name": "High-ConfidenceComputing",
+    "publisher": "Elsevier",
+    "url": ""
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "期刊",
+    "class": "A",
+    "rank": 1,
+    "abbreviation": "TOPLAS",
+    "full_name": "ACMTransactionsonProgrammingLanguagesandSystems",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/journals/toplas/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "期刊",
+    "class": "A",
+    "rank": 2,
+    "abbreviation": "TOSEM",
+    "full_name": "ACMTransactionsonSoftwareEngineeringandMethodology",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/journals/tosem/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "期刊",
+    "class": "A",
+    "rank": 3,
+    "abbreviation": "TSE",
+    "full_name": "IEEETransactionsonSoftwareEngineering",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/journals/tse/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "期刊",
+    "class": "A",
+    "rank": 4,
+    "abbreviation": "TSC",
+    "full_name": "IEEETransactionsonServicesComputing",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/journals/tsc/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "期刊",
+    "class": "B",
+    "rank": 1,
+    "abbreviation": "ASE",
+    "full_name": "AutomatedSoftwareEngineering",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/ase/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "期刊",
+    "class": "B",
+    "rank": 2,
+    "abbreviation": "ESE",
+    "full_name": "EmpiricalSoftwareEngineering",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/ese/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "期刊",
+    "class": "B",
+    "rank": 3,
+    "abbreviation": "IETS",
+    "full_name": "IETSoftware",
+    "publisher": "IET",
+    "url": "https://dblp.uni-trier.de/db/journals/iet-sen/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "期刊",
+    "class": "B",
+    "rank": 4,
+    "abbreviation": "IST",
+    "full_name": "InformationandSoftwareTechnologyCambridge",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/infsof/index.html"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "期刊",
+    "class": "B",
+    "rank": 5,
+    "abbreviation": "JFP",
+    "full_name": "JournalofFunctionalProgramming",
+    "publisher": "Cambridge\nUniversity\nPress",
+    "url": "http://dblp.uni-trier.de/db/journals/jfp/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "期刊",
+    "class": "B",
+    "rank": 6,
+    "abbreviation": "",
+    "full_name": "JournalofSoftware:EvolutionandProcess",
+    "publisher": "Wiley",
+    "url": "http://dblp.uni-trier.de/db/journals/smr/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "期刊",
+    "class": "B",
+    "rank": 7,
+    "abbreviation": "JSS",
+    "full_name": "JournalofSystemsandSoftware",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/jss/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "期刊",
+    "class": "B",
+    "rank": 8,
+    "abbreviation": "RE",
+    "full_name": "RequirementsEngineering",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/re/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "期刊",
+    "class": "B",
+    "rank": 9,
+    "abbreviation": "SCP",
+    "full_name": "ScienceofComputerProgramming",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/scp/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "期刊",
+    "class": "B",
+    "rank": 10,
+    "abbreviation": "SoSyM",
+    "full_name": "SoftwareandSystemsModeling",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/sosym/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "期刊",
+    "class": "B",
+    "rank": 11,
+    "abbreviation": "STVR",
+    "full_name": "SoftwareTesting,VerificationandReliability",
+    "publisher": "Wiley",
+    "url": "http://dblp.uni-trier.de/db/journals/stvr/index.html"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "期刊",
+    "class": "B",
+    "rank": 12,
+    "abbreviation": "SPE",
+    "full_name": "Software:PracticeandExperience",
+    "publisher": "Wiley",
+    "url": "http://dblp.uni-trier.de/db/journals/spe/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "期刊",
+    "class": "C",
+    "rank": 1,
+    "abbreviation": "CL",
+    "full_name": "ComputerLanguages,SystemsandStructures",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/cl/index.html"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "期刊",
+    "class": "C",
+    "rank": 2,
+    "abbreviation": "IJSEKE",
+    "full_name": "InternationalJournalofSoftwareEngineeringandKnowledgeEngineering",
+    "publisher": "World\nScientific",
+    "url": "http://dblp.uni-trier.de/db/journals/ijseke/index.html"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "期刊",
+    "class": "C",
+    "rank": 3,
+    "abbreviation": "STTT",
+    "full_name": "InternationalJournalofSoftwareToolsforTechnologyTransfer",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/sttt/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "期刊",
+    "class": "C",
+    "rank": 4,
+    "abbreviation": "JLAMP",
+    "full_name": "JournalofLogicalandAlgebraicMethodsinProgramming",
+    "publisher": "Elsevier",
+    "url": "https://dblp.uni-trier.de/db/journals/jlap/index.html"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "期刊",
+    "class": "C",
+    "rank": 5,
+    "abbreviation": "JWE",
+    "full_name": "JournalofWebEngineering",
+    "publisher": "Rinton\nPress",
+    "url": "http://dblp.uni-trier.de/db/journals/jwe/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "期刊",
+    "class": "C",
+    "rank": 6,
+    "abbreviation": "SOCA",
+    "full_name": "ServiceOrientedComputingandApplications",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/soca/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "期刊",
+    "class": "C",
+    "rank": 7,
+    "abbreviation": "SQJ",
+    "full_name": "SoftwareQualityJournal",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/sqj/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "期刊",
+    "class": "C",
+    "rank": 8,
+    "abbreviation": "TPLP",
+    "full_name": "TheoryandPracticeofLogicProgramming",
+    "publisher": "Cambridge\nUniversity\nPress",
+    "url": "http://dblp.uni-trier.de/db/journals/tplp/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "期刊",
+    "class": "C",
+    "rank": 9,
+    "abbreviation": "PACMPL",
+    "full_name": "ProceedingsoftheACMonProgrammingLanguages",
+    "publisher": "ACM",
+    "url": "https://dblp.org/db/journals/pacmpl/index.html"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "期刊",
+    "class": "A",
+    "rank": 1,
+    "abbreviation": "TODS",
+    "full_name": "ACMTransactionsonDatabaseSystems",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/journals/tods/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "期刊",
+    "class": "A",
+    "rank": 2,
+    "abbreviation": "TOIS",
+    "full_name": "ACMTransactionsonInformationSystems",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/journals/tois/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "期刊",
+    "class": "A",
+    "rank": 3,
+    "abbreviation": "TKDE",
+    "full_name": "IEEETransactionsonKnowledgeandDataEngineering",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/journals/tkde/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "期刊",
+    "class": "A",
+    "rank": 4,
+    "abbreviation": "VLDBJ",
+    "full_name": "TheVLDBJournal",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/vldb/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "期刊",
+    "class": "B",
+    "rank": 1,
+    "abbreviation": "TKDD",
+    "full_name": "ACMTransactionsonKnowledgeDiscoveryfromData",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/journals/tkdd/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "期刊",
+    "class": "B",
+    "rank": 2,
+    "abbreviation": "TWEB",
+    "full_name": "ACMTransactionsontheWeb",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/journals/tweb/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "期刊",
+    "class": "B",
+    "rank": 3,
+    "abbreviation": "AEI",
+    "full_name": "AdvancedEngineeringInformatics",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/aei/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "期刊",
+    "class": "B",
+    "rank": 4,
+    "abbreviation": "DKE",
+    "full_name": "Data&KnowledgeEngineering",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/dke/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "期刊",
+    "class": "B",
+    "rank": 5,
+    "abbreviation": "DMKD",
+    "full_name": "DataMiningandKnowledgeDiscovery",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/datamine/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "期刊",
+    "class": "B",
+    "rank": 6,
+    "abbreviation": "EJIS",
+    "full_name": "EuropeanJournalofInformationSystems",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/ejis/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "期刊",
+    "class": "B",
+    "rank": 7,
+    "abbreviation": "",
+    "full_name": "GeoInformatica",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/geoinformatica/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "期刊",
+    "class": "B",
+    "rank": 8,
+    "abbreviation": "IPM",
+    "full_name": "InformationProcessingandManagement",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/ipm/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "期刊",
+    "class": "B",
+    "rank": 9,
+    "abbreviation": "",
+    "full_name": "InformationSciences",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/isci/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "期刊",
+    "class": "B",
+    "rank": 10,
+    "abbreviation": "IS",
+    "full_name": "InformationSystems",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/is/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "期刊",
+    "class": "B",
+    "rank": 11,
+    "abbreviation": "JASIST",
+    "full_name": "JournaloftheAssociationforInformationScienceandTechnology",
+    "publisher": "Wiley",
+    "url": "http://dblp.uni-trier.de/db/journals/jasis/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "期刊",
+    "class": "B",
+    "rank": 12,
+    "abbreviation": "JWS",
+    "full_name": "JournalofWebSemantics",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/ws/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "期刊",
+    "class": "B",
+    "rank": 13,
+    "abbreviation": "KAIS",
+    "full_name": "KnowledgeandInformationSystems",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/kais/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "期刊",
+    "class": "B",
+    "rank": 14,
+    "abbreviation": "DSE",
+    "full_name": "DataScienceandEngineering",
+    "publisher": "CCF/\nSpringerNature",
+    "url": "https://dblp.org/db/journals/dase/index.html"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "期刊",
+    "class": "C",
+    "rank": 1,
+    "abbreviation": "DPD",
+    "full_name": "DistributedandParallelDatabases",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/dpd/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "期刊",
+    "class": "C",
+    "rank": 2,
+    "abbreviation": "I&M",
+    "full_name": "Information&Management",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/iam/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "期刊",
+    "class": "C",
+    "rank": 3,
+    "abbreviation": "IPL",
+    "full_name": "InformationProcessingLetters",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/ipl/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "期刊",
+    "class": "C",
+    "rank": 4,
+    "abbreviation": "IR",
+    "full_name": "InformationRetrievalJournal",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/ir/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "期刊",
+    "class": "C",
+    "rank": 5,
+    "abbreviation": "IJCIS",
+    "full_name": "InternationalJournalofCooperativeInformationSystems",
+    "publisher": "World\nScientific",
+    "url": "http://dblp.uni-trier.de/db/journals/ijcis/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "期刊",
+    "class": "C",
+    "rank": 6,
+    "abbreviation": "IJGIS",
+    "full_name": "InternationalJournalofGeographicalInformationScience",
+    "publisher": "Taylor&\nFrancis",
+    "url": "http://dblp.uni-trier.de/db/journals/gis/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "期刊",
+    "class": "C",
+    "rank": 7,
+    "abbreviation": "IJIS",
+    "full_name": "InternationalJournalofIntelligentSystems",
+    "publisher": "Wiley",
+    "url": "http://dblp.uni-trier.de/db/journals/ijis/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "期刊",
+    "class": "C",
+    "rank": 8,
+    "abbreviation": "IJKM",
+    "full_name": "InternationalJournalofKnowledgeManagement",
+    "publisher": "IGI",
+    "url": "http://dblp.uni-trier.de/db/journals/ijkm/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "期刊",
+    "class": "C",
+    "rank": 9,
+    "abbreviation": "IJSWIS",
+    "full_name": "InternationalJournalonSemanticWebandInformationSystems",
+    "publisher": "IGI",
+    "url": "http://dblp.uni-trier.de/db/journals/ijswis/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "期刊",
+    "class": "C",
+    "rank": 10,
+    "abbreviation": "JCIS",
+    "full_name": "JournalofComputerInformationSystems",
+    "publisher": "IACIS",
+    "url": "http://dblp.uni-trier.de/db/journals/jcis/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "期刊",
+    "class": "C",
+    "rank": 11,
+    "abbreviation": "JDM",
+    "full_name": "JournalofDatabaseManagement",
+    "publisher": "IGI-Global",
+    "url": "http://dblp.uni-trier.de/db/journals/jdm/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "期刊",
+    "class": "C",
+    "rank": 12,
+    "abbreviation": "JGITM",
+    "full_name": "JournalofGlobalInformationTechnologyManagement",
+    "publisher": "IvyLeague\nPublishing",
+    "url": "https://dblp.org/db/journals/jgim/index.html"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "期刊",
+    "class": "C",
+    "rank": 13,
+    "abbreviation": "JIIS",
+    "full_name": "JournalofIntelligentInformationSystems",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/jiis/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "期刊",
+    "class": "C",
+    "rank": 14,
+    "abbreviation": "JSIS",
+    "full_name": "TheJournalofStrategicInformationSystems",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/jsis/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "期刊",
+    "class": "C",
+    "rank": 15,
+    "abbreviation": "TIST",
+    "full_name": "ACMTransactionsonIntelligentSystemsandTechnology",
+    "publisher": "ACM",
+    "url": "https://dblp.uni-trier.de/db/journals/tist/index.html"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "期刊",
+    "class": "C",
+    "rank": 16,
+    "abbreviation": "TORS",
+    "full_name": "ACMTransactionsonRecommenderSystems",
+    "publisher": "ACM",
+    "url": "https://dblp.uni-trier.de/db/journals/tors/index.html"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "期刊",
+    "class": "A",
+    "rank": 1,
+    "abbreviation": "TIT",
+    "full_name": "IEEETransactionsonInformationTheory",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/journals/tit/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "期刊",
+    "class": "A",
+    "rank": 2,
+    "abbreviation": "IANDC",
+    "full_name": "InformationandComputation",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/iandc/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "期刊",
+    "class": "A",
+    "rank": 3,
+    "abbreviation": "SICOMP",
+    "full_name": "SIAMJournalonComputing",
+    "publisher": "SIAM",
+    "url": "http://dblp.uni-trier.de/db/journals/siamcomp/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "期刊",
+    "class": "B",
+    "rank": 1,
+    "abbreviation": "TALG",
+    "full_name": "ACMTransactionsonAlgorithms",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/journals/talg/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "期刊",
+    "class": "B",
+    "rank": 2,
+    "abbreviation": "TOCL",
+    "full_name": "ACMTransactionsonComputationalLogic",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/journals/tocl/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "期刊",
+    "class": "B",
+    "rank": 3,
+    "abbreviation": "TOMS",
+    "full_name": "ACMTransactionsonMathematicalSoftware",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/journals/toms/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "期刊",
+    "class": "B",
+    "rank": 4,
+    "abbreviation": "Algorithmica",
+    "full_name": "Algorithmica",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/algorithmica/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "期刊",
+    "class": "B",
+    "rank": 5,
+    "abbreviation": "CC",
+    "full_name": "ComputationalComplexity",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/cc/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "期刊",
+    "class": "B",
+    "rank": 6,
+    "abbreviation": "FAC",
+    "full_name": "FormalAspectsofComputing",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/fac/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "期刊",
+    "class": "B",
+    "rank": 7,
+    "abbreviation": "FMSD",
+    "full_name": "FormalMethodsinSystemDesign",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/fmsd/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "期刊",
+    "class": "B",
+    "rank": 8,
+    "abbreviation": "INFORMS",
+    "full_name": "INFORMSJournalonComputing",
+    "publisher": "INFORMS",
+    "url": "http://dblp.uni-trier.de/db/journals/informs/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "期刊",
+    "class": "B",
+    "rank": 9,
+    "abbreviation": "JCSS",
+    "full_name": "JournalofComputerandSystemSciences",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/jcss/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "期刊",
+    "class": "B",
+    "rank": 10,
+    "abbreviation": "JGO",
+    "full_name": "JournalofGlobalOptimization",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/jgo/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "期刊",
+    "class": "B",
+    "rank": 11,
+    "abbreviation": "JSC",
+    "full_name": "JournalofSymbolicComputation",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/jsc/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "期刊",
+    "class": "B",
+    "rank": 12,
+    "abbreviation": "MSCS",
+    "full_name": "MathematicalStructuresinComputerScience",
+    "publisher": "Cambridge\nUniversity\nPress",
+    "url": "http://dblp.uni-trier.de/db/journals/mscs/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "期刊",
+    "class": "B",
+    "rank": 13,
+    "abbreviation": "TCS",
+    "full_name": "TheoreticalComputerScience",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/tcs/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "期刊",
+    "class": "C",
+    "rank": 1,
+    "abbreviation": "ACTA",
+    "full_name": "ActaInformatica",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/acta/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "期刊",
+    "class": "C",
+    "rank": 2,
+    "abbreviation": "APAL",
+    "full_name": "AnnalsofPureandAppliedLogic",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/apal/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "期刊",
+    "class": "C",
+    "rank": 3,
+    "abbreviation": "DAM",
+    "full_name": "DiscreteAppliedMathematics",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/dam/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "期刊",
+    "class": "C",
+    "rank": 4,
+    "abbreviation": "FUIN",
+    "full_name": "FundamentaInformaticae",
+    "publisher": "IOSPress",
+    "url": "http://dblp.uni-trier.de/db/journals/fuin/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "期刊",
+    "class": "C",
+    "rank": 5,
+    "abbreviation": "IPL",
+    "full_name": "InformationProcessingLetters",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/ipl/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "期刊",
+    "class": "C",
+    "rank": 6,
+    "abbreviation": "JCOMPLEXI\nTY",
+    "full_name": "JournalofComplexity",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/jc/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "期刊",
+    "class": "C",
+    "rank": 7,
+    "abbreviation": "LOGCOM",
+    "full_name": "JournalofLogicandComputation",
+    "publisher": "Oxford\nUniversityPress",
+    "url": "http://dblp.uni-trier.de/db/journals/logcom/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "期刊",
+    "class": "C",
+    "rank": 8,
+    "abbreviation": "JSL",
+    "full_name": "TheJournalofSymbolicLogic",
+    "publisher": "Associationfor\nSymbolicLogic",
+    "url": "http://dblp.uni-trier.de/db/journals/jsyml/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "期刊",
+    "class": "C",
+    "rank": 9,
+    "abbreviation": "LMCS",
+    "full_name": "LogicalMethodsinComputerScience",
+    "publisher": "LMCS",
+    "url": "http://dblp.uni-trier.de/db/journals/lmcs/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "期刊",
+    "class": "C",
+    "rank": 10,
+    "abbreviation": "SIDMA",
+    "full_name": "SIAMJournalonDiscreteMathematics",
+    "publisher": "SIAM",
+    "url": "http://dblp.uni-trier.de/db/journals/siamdm/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "期刊",
+    "class": "C",
+    "rank": 11,
+    "abbreviation": "",
+    "full_name": "TheoryofComputingSystems",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/mst/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "期刊",
+    "class": "C",
+    "rank": 12,
+    "abbreviation": "TQC",
+    "full_name": "ACMTransactionsinQuantumComputing",
+    "publisher": "ACM",
+    "url": "https://dblp.org/db/journals/tqc/index.html"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "期刊",
+    "class": "A",
+    "rank": 1,
+    "abbreviation": "TOG",
+    "full_name": "ACMTransactionsonGraphics",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/journals/tog/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "期刊",
+    "class": "A",
+    "rank": 2,
+    "abbreviation": "TIP",
+    "full_name": "IEEETransactionsonImageProcessing",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/journals/tip/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "期刊",
+    "class": "A",
+    "rank": 3,
+    "abbreviation": "TVCG",
+    "full_name": "IEEETransactionsonVisualizationandComputerGraphics",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/journals/tvcg/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "期刊",
+    "class": "A",
+    "rank": 4,
+    "abbreviation": "TMM",
+    "full_name": "IEEETransactionsonMultimedia",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/journals/tmm/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "期刊",
+    "class": "B",
+    "rank": 1,
+    "abbreviation": "TOMM",
+    "full_name": "ACMTransactionsonMultimediaComputing,CommunicationsandApplications",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/journals/tomccap/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "期刊",
+    "class": "B",
+    "rank": 2,
+    "abbreviation": "CAGD",
+    "full_name": "ComputerAidedGeometricDesign",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/cagd/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "期刊",
+    "class": "B",
+    "rank": 3,
+    "abbreviation": "CGF",
+    "full_name": "ComputerGraphicsForum",
+    "publisher": "Wiley",
+    "url": "http://dblp.uni-trier.de/db/journals/cgf/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "期刊",
+    "class": "B",
+    "rank": 4,
+    "abbreviation": "CAD",
+    "full_name": "Computer-AidedDesign",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/cad/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "期刊",
+    "class": "B",
+    "rank": 5,
+    "abbreviation": "TCSVT",
+    "full_name": "IEEETransactionsonCircuitsandSystemsforVideoTechnology",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/journals/tcsv/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "期刊",
+    "class": "B",
+    "rank": 6,
+    "abbreviation": "JASA",
+    "full_name": "TheJournaloftheAcousticalSocietyofAmerica",
+    "publisher": "AIP",
+    "url": "http://scitation.aip.org/content/asa/journal/jasa"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "期刊",
+    "class": "B",
+    "rank": 7,
+    "abbreviation": "SIIMS",
+    "full_name": "SIAMJournalonImagingSciences",
+    "publisher": "SIAM",
+    "url": "http://dblp.uni-trier.de/db/journals/siamis/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "期刊",
+    "class": "B",
+    "rank": 8,
+    "abbreviation": "SPECOM",
+    "full_name": "SpeechCommunication",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/speech/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "期刊",
+    "class": "B",
+    "rank": 9,
+    "abbreviation": "CVMJ",
+    "full_name": "ComputationalVisualMedia",
+    "publisher": "Tsinghua\nUniversity/Springer",
+    "url": "https://dblp.org/db/journals/cvm/index.html"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "期刊",
+    "class": "C",
+    "rank": 1,
+    "abbreviation": "CGTA",
+    "full_name": "ComputationalGeometry:TheoryandApplications",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/comgeo/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "期刊",
+    "class": "C",
+    "rank": 2,
+    "abbreviation": "CAVW",
+    "full_name": "Computeranimation&virtualworlds",
+    "publisher": "Wiley",
+    "url": "https://dblp.org/db/journals/jvca/index.html"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "期刊",
+    "class": "C",
+    "rank": 3,
+    "abbreviation": "C&G",
+    "full_name": "Computers&Graphics",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/cg/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "期刊",
+    "class": "C",
+    "rank": 4,
+    "abbreviation": "DCG",
+    "full_name": "Discrete&ComputationalGeometry",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/dcg/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "期刊",
+    "class": "C",
+    "rank": 5,
+    "abbreviation": "SPL",
+    "full_name": "IEEESignalProcessingLetters",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/journals/spl/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "期刊",
+    "class": "C",
+    "rank": 6,
+    "abbreviation": "IET-IPR",
+    "full_name": "IETImageProcessing",
+    "publisher": "IET",
+    "url": "http://dblp.uni-trier.de/db/journals/iet-ipr/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "期刊",
+    "class": "C",
+    "rank": 7,
+    "abbreviation": "JVCIR",
+    "full_name": "JournalofVisualCommunicationandImageRepresentation",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/jvcir/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "期刊",
+    "class": "C",
+    "rank": 8,
+    "abbreviation": "MS",
+    "full_name": "MultimediaSystems",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/mms/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "期刊",
+    "class": "C",
+    "rank": 9,
+    "abbreviation": "MTA",
+    "full_name": "MultimediaToolsandApplications",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/mta/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "期刊",
+    "class": "C",
+    "rank": 10,
+    "abbreviation": "SIGPRO",
+    "full_name": "SignalProcessing",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/sigpro/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "期刊",
+    "class": "C",
+    "rank": 11,
+    "abbreviation": "IMAGE",
+    "full_name": "SignalProcessing:ImageCommunication",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/spic/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "期刊",
+    "class": "C",
+    "rank": 12,
+    "abbreviation": "TVC",
+    "full_name": "TheVisualComputer",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/vc/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "期刊",
+    "class": "C",
+    "rank": 13,
+    "abbreviation": "VI",
+    "full_name": "VisualInformatics",
+    "publisher": "浙江大学出\n版社",
+    "url": "https://dblp.uni-trier.de/db/journals/vi/index.html"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "期刊",
+    "class": "C",
+    "rank": 14,
+    "abbreviation": "VRIH",
+    "full_name": "VirtualReality&IntelligentHardware",
+    "publisher": "中国科技出\n版社/北京航\n空航天大学",
+    "url": "https://dblp.uni-trier.de/db/journals/vrih/index.html"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "期刊",
+    "class": "C",
+    "rank": 15,
+    "abbreviation": "GMOD",
+    "full_name": "GraphicalModels",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/cvgip/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "A",
+    "rank": 1,
+    "abbreviation": "AI",
+    "full_name": "ArtificialIntelligence",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/conf/mm/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "A",
+    "rank": 2,
+    "abbreviation": "TPAMI",
+    "full_name": "IEEETransactionsonPatternAnalysisandMachineIntelligence",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/siggraph/index.html"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "A",
+    "rank": 3,
+    "abbreviation": "IJCV",
+    "full_name": "InternationalJournalofComputerVision",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/vr/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "A",
+    "rank": 4,
+    "abbreviation": "JMLR",
+    "full_name": "JournalofMachineLearningResearch",
+    "publisher": "MITPress",
+    "url": "http://dblp.uni-trier.de/db/conf/visualization/index.html"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "B",
+    "rank": 1,
+    "abbreviation": "TAP",
+    "full_name": "ACMTransactionsonAppliedPerception",
+    "publisher": "ACM",
+    "url": "http://dblp2.uni-trier.de/db/conf/vrst/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "B",
+    "rank": 2,
+    "abbreviation": "AAMAS",
+    "full_name": "AutonomousAgentsandMulti-AgentSystems",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/ca/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "B",
+    "rank": 3,
+    "abbreviation": "",
+    "full_name": "ComputationalLinguistics",
+    "publisher": "MITPress",
+    "url": "http://dblp.uni-trier.de/db/conf/cgi/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "B",
+    "rank": 4,
+    "abbreviation": "CVIU",
+    "full_name": "ComputerVisionandImageUnderstanding",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/conf/interspeech/index.html"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "B",
+    "rank": 5,
+    "abbreviation": "DKE",
+    "full_name": "Data&KnowledgeEngineering",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/conf/gmp/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "B",
+    "rank": 6,
+    "abbreviation": "",
+    "full_name": "EvolutionaryComputation",
+    "publisher": "MITPress",
+    "url": "http://dblp.uni-trier.de/db/conf/apvis/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "B",
+    "rank": 7,
+    "abbreviation": "TAC",
+    "full_name": "IEEETransactionsonAffectiveComputing",
+    "publisher": "IEEE",
+    "url": "https://dblp.uni-trier.de/db/conf/3dim/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "B",
+    "rank": 8,
+    "abbreviation": "TASLP",
+    "full_name": "IEEE/ACMTransactionsonAudio,SpeechandLanguageProcessing",
+    "publisher": "IEEE",
+    "url": "https://dblp.uni-trier.de/db/conf/cadgraphics/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "B",
+    "rank": 9,
+    "abbreviation": "",
+    "full_name": "IEEETransactionsonCybernetics",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/icip/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "B",
+    "rank": 10,
+    "abbreviation": "TEC",
+    "full_name": "IEEETransactionsonEvolutionaryComputation",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/mmm/index.html"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "B",
+    "rank": 11,
+    "abbreviation": "TFS",
+    "full_name": "IEEETransactionsonFuzzySystems",
+    "publisher": "IEEE",
+    "url": "https://dblp.uni-trier.de/db/conf/mmasia/index.html"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "B",
+    "rank": 12,
+    "abbreviation": "TNNLS",
+    "full_name": "IEEETransactionsonNeuralNetworksandlearningsystems",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/smi/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "B",
+    "rank": 13,
+    "abbreviation": "IJAR",
+    "full_name": "InternationalJournalofApproximateReasoning",
+    "publisher": "Elsevier",
+    "url": "https://www.computer.org/csdl/proceedings/1800579"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "B",
+    "rank": 14,
+    "abbreviation": "JAIR",
+    "full_name": "JournalofArtificialIntelligenceResearch",
+    "publisher": "AAAI",
+    "url": "http://dblp.uni-trier.de/db/journals/tomccap/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "B",
+    "rank": 15,
+    "abbreviation": "",
+    "full_name": "JournalofAutomatedReasoning",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/cagd/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "B",
+    "rank": 16,
+    "abbreviation": "JSLHR",
+    "full_name": "JournalofSpeech,Language,andHearingResearch",
+    "publisher": "AmericanSpeech-\nLanguageHearing\nAssociation",
+    "url": "http://dblp.uni-trier.de/db/journals/cgf/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "B",
+    "rank": 17,
+    "abbreviation": "",
+    "full_name": "MachineLearning",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/cad/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "B",
+    "rank": 18,
+    "abbreviation": "",
+    "full_name": "NeuralComputation",
+    "publisher": "MITPress",
+    "url": "http://dblp.uni-trier.de/db/journals/cvgip/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "B",
+    "rank": 19,
+    "abbreviation": "",
+    "full_name": "NeuralNetworks",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/tcsv/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "B",
+    "rank": 20,
+    "abbreviation": "PR",
+    "full_name": "PatternRecognition",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/tmm/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "B",
+    "rank": 21,
+    "abbreviation": "TACL",
+    "full_name": "TransactionsoftheAssociationforComputationalLinguistics",
+    "publisher": "TheAssociationfor\nComputational\nLinguistics",
+    "url": "http://scitation.aip.org/content/asa/journal/jasa"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 1,
+    "abbreviation": "TALLIP",
+    "full_name": "ACMTransactionsonAsianandLow-ResourceLanguageInformationProcessing",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/journals/talip/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 2,
+    "abbreviation": "",
+    "full_name": "AppliedIntelligence",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/apin/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 3,
+    "abbreviation": "AIM",
+    "full_name": "ArtificialIntelligenceinMedicine",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/artmed/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 4,
+    "abbreviation": "",
+    "full_name": "ArtificialLife",
+    "publisher": "MITPress",
+    "url": "http://dblp.uni-trier.de/db/journals/alife/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 5,
+    "abbreviation": "",
+    "full_name": "ComputationalIntelligence",
+    "publisher": "Wiley",
+    "url": "http://dblp.uni-trier.de/db/journals/ci/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 6,
+    "abbreviation": "",
+    "full_name": "ComputerSpeech&Language",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/csl/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 7,
+    "abbreviation": "",
+    "full_name": "ConnectionScience",
+    "publisher": "Taylor&\nFrancis",
+    "url": "http://dblp.uni-trier.de/db/journals/connection/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 8,
+    "abbreviation": "DSS",
+    "full_name": "DecisionSupportSystems",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/dss/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 9,
+    "abbreviation": "EAAI",
+    "full_name": "EngineeringApplicationsofArtificial",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/eaai/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 10,
+    "abbreviation": "",
+    "full_name": "IntelligenceExpertSystems",
+    "publisher": "Blackwell/\nWiley",
+    "url": "http://dblp.uni-trier.de/db/journals/es/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 11,
+    "abbreviation": "ESWA",
+    "full_name": "ExpertSystemswithApplications",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/eswa/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 12,
+    "abbreviation": "",
+    "full_name": "FuzzySetsandSystems",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/fss/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 13,
+    "abbreviation": "TG",
+    "full_name": "IEEETransactionsonGames",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/journals/tciaig/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 14,
+    "abbreviation": "IET-CVI",
+    "full_name": "IETComputerVision",
+    "publisher": "IET",
+    "url": "https://dblp.org/db/journals/iet-cvi/index.html"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 15,
+    "abbreviation": "",
+    "full_name": "IETSignalProcessing",
+    "publisher": "IET",
+    "url": "https://dblp.org/db/journals/iet-spr/index.html"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 16,
+    "abbreviation": "IVC",
+    "full_name": "ImageandVisionComputing",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/ivc/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 17,
+    "abbreviation": "IDA",
+    "full_name": "IntelligentDataAnalysis",
+    "publisher": "IOSPress",
+    "url": "http://dblp.uni-trier.de/db/journals/ida/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 18,
+    "abbreviation": "IJCIA",
+    "full_name": "InternationalJournalofComputationalIntelligenceandApplications",
+    "publisher": "World\nScientific",
+    "url": "http://dblp.uni-trier.de/db/journals/ijcia/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 19,
+    "abbreviation": "IJIS",
+    "full_name": "InternationalJournalofIntelligentSystems",
+    "publisher": "Wiley",
+    "url": "http://dblp.uni-trier.de/db/journals/ijis/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 20,
+    "abbreviation": "IJNS",
+    "full_name": "InternationalJournalofNeuralSystems",
+    "publisher": "World\nScientific",
+    "url": "http://dblp.uni-trier.de/db/journals/ijns/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 21,
+    "abbreviation": "IJPRAI",
+    "full_name": "InternationalJournalofPatternRecognitionandArtificialIntelligence",
+    "publisher": "World\nScientific",
+    "url": "http://dblp.uni-trier.de/db/journals/ijprai/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 22,
+    "abbreviation": "IJUFKS",
+    "full_name": "InternationalJournalofUncertainty,FuzzinessandKnowledge-BasedSystems",
+    "publisher": "World\nScientific",
+    "url": "https://dblp.uni-trier.de/db/journals/ijufks/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 23,
+    "abbreviation": "IJDAR",
+    "full_name": "InternationalJournalonDocumentAnalysisandRecognition",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/ijdar/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 24,
+    "abbreviation": "JETAI",
+    "full_name": "JournalofExperimentalandTheoreticalArtificialIntelligence",
+    "publisher": "Taylor&\nFrancis",
+    "url": "http://dblp.uni-trier.de/db/journals/jetai/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 25,
+    "abbreviation": "KBS",
+    "full_name": "Knowledge-BasedSystems",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/kbs/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 26,
+    "abbreviation": "",
+    "full_name": "MachineTranslation",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/mt/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 27,
+    "abbreviation": "",
+    "full_name": "MachineVisionandApplications",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/mva/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 28,
+    "abbreviation": "",
+    "full_name": "NaturalComputing",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/nc/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 29,
+    "abbreviation": "NLE",
+    "full_name": "NaturalLanguageEngineering",
+    "publisher": "Cambridge\nUniversity\nPress",
+    "url": "http://dblp.uni-trier.de/db/journals/nle/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 30,
+    "abbreviation": "NCA",
+    "full_name": "NeuralComputingandApplications",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/nca/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 31,
+    "abbreviation": "NPL",
+    "full_name": "NeuralProcessingLetters",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/npl/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 32,
+    "abbreviation": "",
+    "full_name": "Neurocomputing",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/ijon/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 33,
+    "abbreviation": "PAA",
+    "full_name": "PatternAnalysisandApplications",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/paa/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 34,
+    "abbreviation": "PRL",
+    "full_name": "PatternRecognitionLetters",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/prl/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 35,
+    "abbreviation": "",
+    "full_name": "SoftComputing",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/soco/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 36,
+    "abbreviation": "WI",
+    "full_name": "WebIntelligence",
+    "publisher": "IOSPress",
+    "url": "http://dblp.uni-trier.de/db/journals/wias/"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 37,
+    "abbreviation": "TIIS",
+    "full_name": "ACMTransactionsonInteractiveIntelligentSystems",
+    "publisher": "ACM",
+    "url": "https://dblp.org/db/journals/tiis/index.html"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 38,
+    "abbreviation": "TELO",
+    "full_name": "ACMTransactionsonEvolutionaryLearningandOptimization",
+    "publisher": "ACM",
+    "url": "https://dblp.uni-trier.de/db/journals/telo/index.html"
+  },
+  {
+    "field": "人工智能",
+    "type": "期刊",
+    "class": "C",
+    "rank": 39,
+    "abbreviation": "JATS",
+    "full_name": "ACMJournalonAutonomousTransportationSystems",
+    "publisher": "ACM",
+    "url": ""
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "期刊",
+    "class": "A",
+    "rank": 1,
+    "abbreviation": "TOCHI",
+    "full_name": "ACMTransactionsonComputer-HumanInteraction",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/journals/tochi/"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "期刊",
+    "class": "A",
+    "rank": 2,
+    "abbreviation": "IJHCS",
+    "full_name": "InternationalJournalofHuman-ComputerStudies",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/ijmms/"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "期刊",
+    "class": "B",
+    "rank": 1,
+    "abbreviation": "CSCW",
+    "full_name": "ComputerSupportedCooperativeWork",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/cscw/"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "期刊",
+    "class": "B",
+    "rank": 2,
+    "abbreviation": "HCI",
+    "full_name": "Human-ComputerInteraction",
+    "publisher": "Taylor&\nFrancis",
+    "url": "http://dblp.uni-trier.de/db/journals/hhci/"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "期刊",
+    "class": "B",
+    "rank": 3,
+    "abbreviation": "",
+    "full_name": "IEEETransactionsonHuman-MachineSystems",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/journals/thms/"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "期刊",
+    "class": "B",
+    "rank": 4,
+    "abbreviation": "IWC",
+    "full_name": "InteractingwithComputers",
+    "publisher": "Oxford\nUniversity\nPress",
+    "url": "http://dblp.uni-trier.de/db/journals/iwc/"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "期刊",
+    "class": "B",
+    "rank": 5,
+    "abbreviation": "IJHCI",
+    "full_name": "InternationalJournalofHuman-ComputerInteraction",
+    "publisher": "Taylor&\nFrancis",
+    "url": "http://dblp.uni-trier.de/db/journals/ijhci/"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "期刊",
+    "class": "B",
+    "rank": 6,
+    "abbreviation": "UMUAI",
+    "full_name": "UserModelingandUser-AdaptedInteraction",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/umuai/"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "期刊",
+    "class": "B",
+    "rank": 7,
+    "abbreviation": "TSMC",
+    "full_name": "IEEETransactionsonSystems,Man,andCybernetics:Systems",
+    "publisher": "IEEE",
+    "url": "https://dblp.org/db/journals/tsmc/tsmc12.html"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "期刊",
+    "class": "B",
+    "rank": 8,
+    "abbreviation": "CCFTPCI",
+    "full_name": "CCFTransactionsonPervasiveComputingandInteraction",
+    "publisher": "CCF/\nSpringer",
+    "url": "https://dblp.uni-trier.de/db/journals/ccftpci/index.html"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "期刊",
+    "class": "C",
+    "rank": 1,
+    "abbreviation": "BIT",
+    "full_name": "Behaviour&InformationTechnology",
+    "publisher": "Taylor&\nFrancis",
+    "url": "http://dblp.uni-trier.de/db/journals/behaviourIT/"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "期刊",
+    "class": "C",
+    "rank": 2,
+    "abbreviation": "PUC",
+    "full_name": "PersonalandUbiquitousComputing",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/puc/"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "期刊",
+    "class": "C",
+    "rank": 3,
+    "abbreviation": "PMC",
+    "full_name": "PervasiveandMobileComputing",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/percom/"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "期刊",
+    "class": "C",
+    "rank": 4,
+    "abbreviation": "PACMHCI",
+    "full_name": "ProceedingsoftheACMonHuman-ComputerInteraction",
+    "publisher": "ACM",
+    "url": "https://dblp.org/db/journals/pacmhci/index.html"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "期刊",
+    "class": "C",
+    "rank": 5,
+    "abbreviation": "THRI",
+    "full_name": "ACMTransactionsonHuman-RobotInteraction",
+    "publisher": "ACM",
+    "url": "https://dblp.uni-trier.de/db/journals/thri/index.html"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "期刊",
+    "class": "A",
+    "rank": 1,
+    "abbreviation": "JACM",
+    "full_name": "JournaloftheACM",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/journals/jacm/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "期刊",
+    "class": "A",
+    "rank": 2,
+    "abbreviation": "Proc.IEEE",
+    "full_name": "ProceedingsoftheIEEE",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/journals/pieee/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "期刊",
+    "class": "A",
+    "rank": 3,
+    "abbreviation": "SCIS",
+    "full_name": "ScienceChinaInformationSciences",
+    "publisher": "ScienceinChina\nPress/Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/chinaf/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "期刊",
+    "class": "A",
+    "rank": 4,
+    "abbreviation": "Bioinformatics",
+    "full_name": "Bioinformatics",
+    "publisher": "OxfordUniversity\nPress",
+    "url": "http://dblp.uni-trier.de/db/journals/bioinformatics/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "期刊",
+    "class": "B",
+    "rank": 1,
+    "abbreviation": "",
+    "full_name": "BriefingsinBioinformatics",
+    "publisher": "OxfordUniversity\nPress",
+    "url": "http://dblp.uni-trier.de/db/journals/bib/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "期刊",
+    "class": "B",
+    "rank": 2,
+    "abbreviation": "Cognition",
+    "full_name": "Cognition",
+    "publisher": "Elsevier",
+    "url": "http://www.journals.elsevier.com/cognition/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "期刊",
+    "class": "B",
+    "rank": 3,
+    "abbreviation": "TASAE",
+    "full_name": "IEEETransactionsonAutomationScienceandEngineering",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/journals/tase/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "期刊",
+    "class": "B",
+    "rank": 4,
+    "abbreviation": "TGARS",
+    "full_name": "IEEETransactionsonGeoscienceandRemoteSensing",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/journals/tgrs/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "期刊",
+    "class": "B",
+    "rank": 5,
+    "abbreviation": "TITS",
+    "full_name": "IEEETransactionsonIntelligentTransportationSystems",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/journals/tits/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "期刊",
+    "class": "B",
+    "rank": 6,
+    "abbreviation": "TMI",
+    "full_name": "IEEETransactionsonMedicalImaging",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/journals/tmi/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "期刊",
+    "class": "B",
+    "rank": 7,
+    "abbreviation": "TR",
+    "full_name": "IEEETransactionsonRobotics",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/journals/trob/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "期刊",
+    "class": "B",
+    "rank": 8,
+    "abbreviation": "TCBB",
+    "full_name": "IEEE/ACMTransactionsonComputationalBiologyandBioinformatics",
+    "publisher": "IEEE/ACM",
+    "url": "http://dblp.uni-trier.de/db/journals/tcbb/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "期刊",
+    "class": "B",
+    "rank": 9,
+    "abbreviation": "JCST",
+    "full_name": "JournalofComputerScienceandTechnology",
+    "publisher": "SCIENCE\nPRESS/Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/jcst/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "期刊",
+    "class": "B",
+    "rank": 10,
+    "abbreviation": "JAMIA",
+    "full_name": "JournaloftheAmericanMedicalInformaticsAssociation",
+    "publisher": "BMJJournals",
+    "url": "http://dblp.uni-trier.de/db/journals/jamia/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "期刊",
+    "class": "B",
+    "rank": 11,
+    "abbreviation": "",
+    "full_name": "PLOSComputationalBiology",
+    "publisher": "PublicLibraryof\nScience",
+    "url": "http://dblp.uni-trier.de/db/journals/ploscb/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "期刊",
+    "class": "B",
+    "rank": 12,
+    "abbreviation": "",
+    "full_name": "TheComputerJournal",
+    "publisher": "OxfordUniversity\nPress",
+    "url": "http://dblp.uni-trier.de/db/journals/cj/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "期刊",
+    "class": "B",
+    "rank": 13,
+    "abbreviation": "WWW",
+    "full_name": "WorldWideWeb",
+    "publisher": "Springer",
+    "url": "https://dblp.org/db/journals/www/index.html"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "期刊",
+    "class": "B",
+    "rank": 14,
+    "abbreviation": "FCS",
+    "full_name": "FrontiersofComputerScience",
+    "publisher": "HigherEducation\nPress",
+    "url": "http://dblp.uni-trier.de/db/journals/fcsc/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "期刊",
+    "class": "B",
+    "rank": 15,
+    "abbreviation": "BCRA",
+    "full_name": "Blockchain:ResearchandApplications",
+    "publisher": "浙江大学出版社\n/Elsevier",
+    "url": "https://dblp.uni-trier.de/search?q=BCRA"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "期刊",
+    "class": "C",
+    "rank": 1,
+    "abbreviation": "",
+    "full_name": "BMCBioinformatics",
+    "publisher": "BioMedCentral",
+    "url": "http://dblp.uni-trier.de/db/journals/bmcbi/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "期刊",
+    "class": "C",
+    "rank": 2,
+    "abbreviation": "",
+    "full_name": "CyberneticsandSystems",
+    "publisher": "Taylor&Francis",
+    "url": "http://dblp.uni-trier.de/db/journals/cas/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "期刊",
+    "class": "C",
+    "rank": 3,
+    "abbreviation": "",
+    "full_name": "IEEEGeoscienceandRemoteSensingLetters",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/journals/lgrs/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "期刊",
+    "class": "C",
+    "rank": 4,
+    "abbreviation": "JBHI",
+    "full_name": "IEEEJournalofBiomedicalandHealthInformatics",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/journals/titb/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "期刊",
+    "class": "C",
+    "rank": 5,
+    "abbreviation": "TBD",
+    "full_name": "IEEETransactionsonBigData",
+    "publisher": "IEEE",
+    "url": "https://dblp.uni-trier.de/db/journals/tbd/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "期刊",
+    "class": "C",
+    "rank": 6,
+    "abbreviation": "",
+    "full_name": "IETIntelligentTransportSystems",
+    "publisher": "IET",
+    "url": "http://digital-library.theiet.org/content/journals/iet-\nits"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "期刊",
+    "class": "C",
+    "rank": 7,
+    "abbreviation": "JBI",
+    "full_name": "JournalofBiomedicalInformaticsInformatics",
+    "publisher": "Elsevier",
+    "url": "https://dblp.uni-trier.de/db/journals/jbi/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "期刊",
+    "class": "C",
+    "rank": 8,
+    "abbreviation": "",
+    "full_name": "MedicalImageAnalysis",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/journals/mia/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "期刊",
+    "class": "C",
+    "rank": 9,
+    "abbreviation": "TII",
+    "full_name": "IEEETransactionsonIndustrialInformatics",
+    "publisher": "IEEE",
+    "url": "https://dblp.org/db/journals/tii/index.html"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "期刊",
+    "class": "C",
+    "rank": 10,
+    "abbreviation": "TCPS",
+    "full_name": "ACMTransactionsonCyber-PhysicalSystems",
+    "publisher": "ACM",
+    "url": "https://dblp.org/db/journals/tcps/index.html"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "期刊",
+    "class": "C",
+    "rank": 11,
+    "abbreviation": "TOCE",
+    "full_name": "ACMTransactionsonComputingEducation",
+    "publisher": "ACM",
+    "url": "https://dblp.org/db/journals/jeric/index.html"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "期刊",
+    "class": "C",
+    "rank": 12,
+    "abbreviation": "FITEE",
+    "full_name": "FrontiersofInformationTechnology&ElectronicEngineering",
+    "publisher": "Springer",
+    "url": "https://dblp.org/db/journals/jzusc/index.html"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "期刊",
+    "class": "C",
+    "rank": 13,
+    "abbreviation": "TCSS",
+    "full_name": "IEEETransactionsonComputationalSocialSystems",
+    "publisher": "IEEE",
+    "url": "https://dblp.org/db/journals/tcss/index.html"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "期刊",
+    "class": "C",
+    "rank": 14,
+    "abbreviation": "",
+    "full_name": "IEEETransactionsonReliability",
+    "publisher": "IEEE",
+    "url": "https://dblp.org/db/journals/tr/index.html"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "期刊",
+    "class": "C",
+    "rank": 15,
+    "abbreviation": "HEALTH",
+    "full_name": "ACMTransactionsonComputingforHealthcare",
+    "publisher": "ACM",
+    "url": "https://dblp.uni-\ntrier.de/db/journals/health/index.html"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "期刊",
+    "class": "C",
+    "rank": 16,
+    "abbreviation": "ACMDLT",
+    "full_name": "ACMDistributedLedgerTechnologies:ResearchandPractice",
+    "publisher": "ACM",
+    "url": "https://dblp.uni-\ntrier.de/db/journals/distribledger/index.html"
+  }
+]

@@ -1,0 +1,3872 @@
+[
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "A",
+    "rank": 1,
+    "abbreviation": "PPoPP",
+    "full_name": "ACMSIGPLANSymposiumonPrinciples&PracticeofParallelProgramming",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/ppopp/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "A",
+    "rank": 2,
+    "abbreviation": "FAST",
+    "full_name": "USENIXConferenceonFileandStorageTechnologies",
+    "publisher": "USENIX",
+    "url": "http://dblp.uni-trier.de/db/conf/fast/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "A",
+    "rank": 3,
+    "abbreviation": "DAC",
+    "full_name": "DesignAutomationConference",
+    "publisher": "ACM",
+    "url": "https://dblp.uni-trier.de/db/conf/dac/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "A",
+    "rank": 4,
+    "abbreviation": "HPCA",
+    "full_name": "IEEEInternationalSymposiumonHighPerformanceComputerArchitecture",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/hpca/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "A",
+    "rank": 5,
+    "abbreviation": "MICRO",
+    "full_name": "IEEE/ACMInternationalSymposiumonMicroarchitecture",
+    "publisher": "IEEE/\nACM",
+    "url": "https://dblp.uni-trier.de/db/conf/micro/index.html"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "A",
+    "rank": 6,
+    "abbreviation": "SC",
+    "full_name": "InternationalConferenceforHighPerformanceComputing,Networking,Storage,andAnalysis",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/sc/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "A",
+    "rank": 7,
+    "abbreviation": "ASPLOS",
+    "full_name": "InternationalConferenceonArchitecturalSupportforProgrammingLanguagesandOperatingSystems",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/asplos/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "A",
+    "rank": 8,
+    "abbreviation": "ISCA",
+    "full_name": "InternationalSymposiumonComputerArchitecture",
+    "publisher": "IEEE/\nACM",
+    "url": "http://dblp.uni-trier.de/db/conf/isca/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "A",
+    "rank": 9,
+    "abbreviation": "ACMSIGOPSATC\n（原USENIXATC）",
+    "full_name": "ACMSIGOPSAnnualTechnicalConference",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/usenix/index.html"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "A",
+    "rank": 10,
+    "abbreviation": "EuroSys",
+    "full_name": "EuropeanConferenceonComputerSystems",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/eurosys/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "A",
+    "rank": 11,
+    "abbreviation": "HPDC",
+    "full_name": "TheInternationalACMSymposiumonHigh-PerformanceParallelandDistributedComputing",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/hpdc/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "B",
+    "rank": 1,
+    "abbreviation": "SoCC",
+    "full_name": "ACMSymposiumonCloudComputing",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/cloud/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "B",
+    "rank": 2,
+    "abbreviation": "SPAA",
+    "full_name": "ACMSymposiumonParallelisminAlgorithmsandArchitectures",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/spaa/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "B",
+    "rank": 3,
+    "abbreviation": "PODC",
+    "full_name": "ACMSymposiumonPrinciplesofDistributedComputing",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/podc/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "B",
+    "rank": 4,
+    "abbreviation": "FPGA",
+    "full_name": "ACM/SIGDAInternationalSymposiumonField-ProgrammableGateArrays",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/fpga/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "B",
+    "rank": 5,
+    "abbreviation": "CGO",
+    "full_name": "TheInternationalSymposiumonCodeGenerationandOptimization",
+    "publisher": "IEEE/\nACM",
+    "url": "http://dblp.uni-trier.de/db/conf/cgo/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "B",
+    "rank": 6,
+    "abbreviation": "DATE",
+    "full_name": "Design,Automation&TestinEurope",
+    "publisher": "IEEE/\nACM",
+    "url": "http://dblp.uni-trier.de/db/conf/date/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "B",
+    "rank": 7,
+    "abbreviation": "HOT\nCHIPS",
+    "full_name": "HotChips:ASymposiumonHighPerformanceChips",
+    "publisher": "IEEE",
+    "url": "https://dblp.org/db/conf/hotchips/index.html"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "B",
+    "rank": 8,
+    "abbreviation": "CLUSTER",
+    "full_name": "IEEEInternationalConferenceonClusterComputing",
+    "publisher": "IEEE",
+    "url": "https://dblp.uni-trier.de/db/conf/cluster/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "B",
+    "rank": 9,
+    "abbreviation": "ICCD",
+    "full_name": "InternationalConferenceonComputerDesign",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/iccd/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "B",
+    "rank": 10,
+    "abbreviation": "ICCAD",
+    "full_name": "InternationalConferenceonComputer-AidedDesign",
+    "publisher": "IEEE/\nACM",
+    "url": "http://dblp.uni-trier.de/db/conf/iccad/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "B",
+    "rank": 11,
+    "abbreviation": "ICDCS",
+    "full_name": "IEEEInternationalConferenceonDistributedComputingSystems",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/icdcs/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "B",
+    "rank": 12,
+    "abbreviation": "CODES+\nISSS",
+    "full_name": "InternationalConferenceonHardware/SoftwareCo-designandSystemSynthesis",
+    "publisher": "IEEE/\nACM",
+    "url": "https://dblp.uni-trier.de/db/conf/codesisss/index.html"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "B",
+    "rank": 13,
+    "abbreviation": "HiPEAC",
+    "full_name": "InternationalConferenceonHighPerformanceandEmbeddedArchitecturesandCompilers",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/hipeac/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "B",
+    "rank": 14,
+    "abbreviation": "SIG-\nMETRICS",
+    "full_name": "InternationalConferenceonMeasurementandModelingofComputerSystems",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/sigmetrics/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "B",
+    "rank": 15,
+    "abbreviation": "PACT",
+    "full_name": "InternationalConferenceonParallelArchitecturesandCompilationTechniques",
+    "publisher": "IEEE/\nACM",
+    "url": "http://dblp.uni-trier.de/db/conf/IEEEpact/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "B",
+    "rank": 16,
+    "abbreviation": "ICPP",
+    "full_name": "InternationalConferenceonParallelProcessing",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/icpp/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "B",
+    "rank": 17,
+    "abbreviation": "ICS",
+    "full_name": "InternationalConferenceonSupercomputing",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/ics/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "B",
+    "rank": 18,
+    "abbreviation": "VEE",
+    "full_name": "InternationalConferenceonVirtualExecutionEnvironments",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/vee/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "B",
+    "rank": 19,
+    "abbreviation": "IPDPS",
+    "full_name": "IEEEInternationalParallel&DistributedProcessingSymposium",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/ipps/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "B",
+    "rank": 20,
+    "abbreviation": "Performance",
+    "full_name": "InternationalSymposiumonComputerPerformance,Modeling,MeasurementsandEvaluation",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/performance/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "B",
+    "rank": 21,
+    "abbreviation": "ITC",
+    "full_name": "InternationalTestConference",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/itc/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "B",
+    "rank": 22,
+    "abbreviation": "LISA",
+    "full_name": "LargeInstallationSystemAdministrationConference",
+    "publisher": "USENIX",
+    "url": "http://dblp.uni-trier.de/db/conf/lisa/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "B",
+    "rank": 23,
+    "abbreviation": "MSST",
+    "full_name": "MassStorageSystemsandTechnologies",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/mss/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "B",
+    "rank": 24,
+    "abbreviation": "RTAS",
+    "full_name": "IEEEReal-TimeandEmbeddedTechnologyandApplicationsSymposium",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/rtas/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "B",
+    "rank": 25,
+    "abbreviation": "Euro-Par",
+    "full_name": "EuropeanConferenceonParallelandDistributedComputingSpringer",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/europar/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "B",
+    "rank": 26,
+    "abbreviation": "ISCAS",
+    "full_name": "IEEEInternationalSymposiumonCircuitsandSystems",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/hpdc/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "C",
+    "rank": 1,
+    "abbreviation": "CF",
+    "full_name": "ACMInternationalConferenceonComputingFrontiers",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/cf"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "C",
+    "rank": 2,
+    "abbreviation": "SYSTOR",
+    "full_name": "ACMInternationalSystemsandStorageConference",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/systor/index.html"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "C",
+    "rank": 3,
+    "abbreviation": "NOCS",
+    "full_name": "ACM/IEEEInternationalSymposiumonNetworks-on-Chip",
+    "publisher": "IEEE/\nACM",
+    "url": "http://dblp.uni-trier.de/db/conf/nocs"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "C",
+    "rank": 4,
+    "abbreviation": "ASAP",
+    "full_name": "IEEEInternationalConferenceonApplication-SpecificSystems,Architectures,andProcessors",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/asap"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "C",
+    "rank": 5,
+    "abbreviation": "ASP-DAC",
+    "full_name": "AsiaandSouthPacificDesignAutomationConference",
+    "publisher": "IEEE/\nACM",
+    "url": "http://dblp.uni-trier.de/db/conf/aspdac"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "C",
+    "rank": 6,
+    "abbreviation": "ETS",
+    "full_name": "IEEEEuropeanTestSymposium",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/ets/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "C",
+    "rank": 7,
+    "abbreviation": "FPL",
+    "full_name": "InternationalConferenceonField-ProgrammableLogicandApplications",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/fpl/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "C",
+    "rank": 8,
+    "abbreviation": "FCCM",
+    "full_name": "IEEESymposiumonField-ProgrammableCustomComputingMachines",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/fccm/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "C",
+    "rank": 9,
+    "abbreviation": "GLSVLSI",
+    "full_name": "GreatLakesSymposiumonVLSI",
+    "publisher": "IEEE/\nACM",
+    "url": "http://dblp.uni-trier.de/db/conf/glvlsi/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "C",
+    "rank": 10,
+    "abbreviation": "ATS",
+    "full_name": "IEEEAsianTestSymposium",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/ats/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "C",
+    "rank": 11,
+    "abbreviation": "HPCC",
+    "full_name": "IEEEInternationalConferenceonHighPerformanceComputingandCommunications",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/hpcc/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "C",
+    "rank": 12,
+    "abbreviation": "HiPC",
+    "full_name": "IEEEInternationalConferenceonHighPerformanceComputing,DataandAnalytics",
+    "publisher": "IEEE/\nACM",
+    "url": "http://dblp.uni-trier.de/db/conf/hipc/index.html"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "C",
+    "rank": 13,
+    "abbreviation": "MASCOTS",
+    "full_name": "InternationalSymposiumonModeling,Analysis,andSimulationofComputerandTelecommunicationSystems",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/mascots/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "C",
+    "rank": 14,
+    "abbreviation": "ISPA",
+    "full_name": "IEEEInternationalSymposiumonParallelandDistributedProcessingwithApplications",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/sigmetrics/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "C",
+    "rank": 15,
+    "abbreviation": "CCGRID",
+    "full_name": "IEEE/ACMInternationalSymposiumonCluster,CloudandGridComputing",
+    "publisher": "IEEE/\nACM",
+    "url": "http://dblp.uni-trier.de/db/conf/IEEEpact/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "C",
+    "rank": 16,
+    "abbreviation": "NPC",
+    "full_name": "IFIPInternationalConferenceonNetworkandParallelComputing",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/icpp/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "C",
+    "rank": 17,
+    "abbreviation": "ICA3PP",
+    "full_name": "InternationalConferenceonAlgorithmsandArchitecturesforParallelProcessing",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/ics/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "C",
+    "rank": 18,
+    "abbreviation": "CASES",
+    "full_name": "InternationalConferenceonCompilers,Architectures,andSynthesisforEmbeddedSystems",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/vee/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "C",
+    "rank": 19,
+    "abbreviation": "FPT",
+    "full_name": "InternationalConferenceonField-ProgrammableTechnology",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/ipps/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "C",
+    "rank": 20,
+    "abbreviation": "ICPADS",
+    "full_name": "InternationalConferenceonParallelandDistributedSystems",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/performance/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "C",
+    "rank": 21,
+    "abbreviation": "ISLPED",
+    "full_name": "InternationalSymposiumonLowPowerElectronicsandDesign",
+    "publisher": "IEEE/\nACM",
+    "url": "http://dblp.uni-trier.de/db/conf/itc/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "C",
+    "rank": 22,
+    "abbreviation": "ISPD",
+    "full_name": "InternationalSymposiumonPhysicalDesign",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/lisa/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "C",
+    "rank": 23,
+    "abbreviation": "HOTI",
+    "full_name": "IEEESymposiumonHigh-PerformanceInterconnects",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/mss/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "C",
+    "rank": 24,
+    "abbreviation": "VTS",
+    "full_name": "IEEEVLSITestSymposium",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/rtas/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "C",
+    "rank": 25,
+    "abbreviation": "ITC-Asia",
+    "full_name": "InternationalTestConferenceinAsia",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/europar/"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "C",
+    "rank": 26,
+    "abbreviation": "SEC",
+    "full_name": "ACM/IEEESymposiumonEdgeComputing",
+    "publisher": "IEEE/\nACM",
+    "url": "https://dblp.uni-trier.de/db/conf/ieeesec/index.html"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "C",
+    "rank": 27,
+    "abbreviation": "NAS",
+    "full_name": "InternationalConferenceonNetworking,ArchitectureandStorages",
+    "publisher": "IEEE",
+    "url": "https://dblp.uni-trier.de/db/conf/nas/index.html"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "C",
+    "rank": 28,
+    "abbreviation": "HotStorage",
+    "full_name": "HotStorage",
+    "publisher": "USENIX\nAssociation",
+    "url": "https://dblp.uni-trier.de/db/conf/hotstorage/index.html"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "C",
+    "rank": 29,
+    "abbreviation": "APPT",
+    "full_name": "InternationalSymposiumonAdvancedParallelProcessingTechnology",
+    "publisher": "Springer",
+    "url": "https://dblp.uni-trier.de/db/conf/appt/index.html"
+  },
+  {
+    "field": "计算机体系结构/并行与分布计算/存储系统",
+    "type": "会议",
+    "class": "C",
+    "rank": 30,
+    "abbreviation": "JCC",
+    "full_name": "InternationalConferenceonJointCloudComputing",
+    "publisher": "CCF&IEEE",
+    "url": ""
+  },
+  {
+    "field": "计算机网络",
+    "type": "会议",
+    "class": "A",
+    "rank": 1,
+    "abbreviation": "SIGCOMM",
+    "full_name": "ACMInternationalConferenceonApplications,Technologies,Architectures,andProtocolsforComputerCommunication",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/sigcomm/index.html"
+  },
+  {
+    "field": "计算机网络",
+    "type": "会议",
+    "class": "A",
+    "rank": 2,
+    "abbreviation": "MobiCom",
+    "full_name": "ACMInternationalConferenceonMobileComputingandNetworking",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/mobicom/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "会议",
+    "class": "A",
+    "rank": 3,
+    "abbreviation": "INFOCOM",
+    "full_name": "IEEEInternationalConferenceonComputerCommunications",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/infocom/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "会议",
+    "class": "A",
+    "rank": 4,
+    "abbreviation": "NSDI",
+    "full_name": "SymposiumonNetworkSystemDesignandImplementation",
+    "publisher": "USENIX",
+    "url": "http://dblp.uni-trier.de/db/conf/nsdi/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "会议",
+    "class": "B",
+    "rank": 1,
+    "abbreviation": "SenSys",
+    "full_name": "ACMConferenceonEmbeddedNetworkedSensorSystems",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/sensys/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "会议",
+    "class": "B",
+    "rank": 2,
+    "abbreviation": "CoNEXT",
+    "full_name": "ACMInternationalConferenceonEmergingNetworkingExperimentsandTechnologies",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/conext/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "会议",
+    "class": "B",
+    "rank": 3,
+    "abbreviation": "SECON",
+    "full_name": "IEEEInternationalConferenceonSensing,Communication,andNetworking",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/secon/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "会议",
+    "class": "B",
+    "rank": 4,
+    "abbreviation": "IPSN",
+    "full_name": "InternationalConferenceonInformationProcessinginSensorNetworks",
+    "publisher": "IEEE/\nACM",
+    "url": "http://dblp.uni-trier.de/db/conf/ipsn/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "会议",
+    "class": "B",
+    "rank": 5,
+    "abbreviation": "MobiSys",
+    "full_name": "ACMInternationalConferenceonMobileSystems,Applications,andServices",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/mobisys/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "会议",
+    "class": "B",
+    "rank": 6,
+    "abbreviation": "ICNP",
+    "full_name": "IEEEInternationalConferenceonNetworkProtocols",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/icnp/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "会议",
+    "class": "B",
+    "rank": 7,
+    "abbreviation": "MobiHoc",
+    "full_name": "InternationalSymposiumonTheory,AlgorithmicFoundations,andProtocolDesignforMobileNetworksandMobileComputing",
+    "publisher": "IEEE/\nACM",
+    "url": "http://dblp.uni-trier.de/db/conf/mobihoc/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "会议",
+    "class": "B",
+    "rank": 8,
+    "abbreviation": "NOSSDAV",
+    "full_name": "InternationalWorkshoponNetworkandOperatingSystemSupportforDigitalAudioandVideo",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/nossdav/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "会议",
+    "class": "B",
+    "rank": 9,
+    "abbreviation": "IWQoS",
+    "full_name": "IEEE/ACMInternationalWorkshoponQualityofService",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/iwqos/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "会议",
+    "class": "B",
+    "rank": 10,
+    "abbreviation": "IMC",
+    "full_name": "ACMInternetMeasurementConference",
+    "publisher": "ACM/\nUSENIX",
+    "url": "http://dblp.uni-trier.de/db/conf/imc/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "会议",
+    "class": "C",
+    "rank": 1,
+    "abbreviation": "ANCS",
+    "full_name": "ACM/IEEESymposiumonArchitecturesforNetworkingandCommunicationSystems",
+    "publisher": "IEEE/\nACM",
+    "url": "http://dblp.uni-trier.de/db/conf/ancs/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "会议",
+    "class": "C",
+    "rank": 2,
+    "abbreviation": "APNOMS",
+    "full_name": "Asia-PacificNetworkOperationsandManagementSymposium",
+    "publisher": "IFIP/\nIEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/apnoms/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "会议",
+    "class": "C",
+    "rank": 3,
+    "abbreviation": "FORTE",
+    "full_name": "InternationalConferenceonFormalTechniquesforDistributedObjects,Components,andSystems",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/forte/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "会议",
+    "class": "C",
+    "rank": 4,
+    "abbreviation": "LCN",
+    "full_name": "IEEEConferenceonLocalComputerNetworks",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/lcn/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "会议",
+    "class": "C",
+    "rank": 5,
+    "abbreviation": "GLOBECOM",
+    "full_name": "IEEEGlobalCommunicationsConference",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/globecom/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "会议",
+    "class": "C",
+    "rank": 6,
+    "abbreviation": "ICC",
+    "full_name": "IEEEInternationalConferenceonCommunications",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/icc/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "会议",
+    "class": "C",
+    "rank": 7,
+    "abbreviation": "ICCCN",
+    "full_name": "IEEEInternationalConferenceonComputerCommunicationsandNetworks",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/icccn/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "会议",
+    "class": "C",
+    "rank": 8,
+    "abbreviation": "MASS",
+    "full_name": "IEEEInternationalConferenceonMobileAdhocandSensorSystems",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/mass/index.html"
+  },
+  {
+    "field": "计算机网络",
+    "type": "会议",
+    "class": "C",
+    "rank": 9,
+    "abbreviation": "P2P",
+    "full_name": "IEEEInternationalConferenceonPeer-to-PeerComputing",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/p2p/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "会议",
+    "class": "C",
+    "rank": 10,
+    "abbreviation": "IPCCC",
+    "full_name": "IEEEInternationalPerformanceComputingandCommunicationsConference",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/ipccc/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "会议",
+    "class": "C",
+    "rank": 11,
+    "abbreviation": "WoWMoM",
+    "full_name": "IEEEInternationalSymposiumonaWorldofWireless,MobileandMultimediaNetworks",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/wowmom/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "会议",
+    "class": "C",
+    "rank": 12,
+    "abbreviation": "ISCC",
+    "full_name": "IEEESymposiumonComputersandCommunications",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/iscc/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "会议",
+    "class": "C",
+    "rank": 13,
+    "abbreviation": "WCNC",
+    "full_name": "IEEEWirelessCommunicationsandNetworkingConference",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/wcnc/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "会议",
+    "class": "C",
+    "rank": 14,
+    "abbreviation": "Networking",
+    "full_name": "IFIPInternationalConferencesonNetworking",
+    "publisher": "IFIP",
+    "url": "http://dblp.uni-trier.de/db/conf/networking/index.html"
+  },
+  {
+    "field": "计算机网络",
+    "type": "会议",
+    "class": "C",
+    "rank": 15,
+    "abbreviation": "IM",
+    "full_name": "IFIP/IEEEInternationalSymposiumonIntegratedNetworkManagement",
+    "publisher": "IFIP/\nIEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/im/index.html"
+  },
+  {
+    "field": "计算机网络",
+    "type": "会议",
+    "class": "C",
+    "rank": 16,
+    "abbreviation": "MSN",
+    "full_name": "InternationalConferenceonMobility,SensingandNetworking",
+    "publisher": "IEEE",
+    "url": "https://dblp.uni-trier.de/db/conf/msn/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "会议",
+    "class": "C",
+    "rank": 17,
+    "abbreviation": "MSWiM",
+    "full_name": "InternationalConferenceonModeling,AnalysisandSimulationofWirelessandMobileSystems",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/mswim/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "会议",
+    "class": "C",
+    "rank": 18,
+    "abbreviation": "WASA",
+    "full_name": "TheInternationalConferenceonWirelessArtificialIntelligentComputingSystemsandApplications",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/wasa/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "会议",
+    "class": "C",
+    "rank": 19,
+    "abbreviation": "HotNets",
+    "full_name": "ACMTheWorkshoponHotTopicsinNetworks",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/hotnets/"
+  },
+  {
+    "field": "计算机网络",
+    "type": "会议",
+    "class": "C",
+    "rank": 20,
+    "abbreviation": "APNet",
+    "full_name": "Asia-PacificWorkshoponNetworking",
+    "publisher": "ACM",
+    "url": "https://dblp.org/db/conf/apnet/index.html"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "A",
+    "rank": 1,
+    "abbreviation": "CCS",
+    "full_name": "ACMConferenceonComputerandCommunicationsSecurity",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/ccs/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "A",
+    "rank": 2,
+    "abbreviation": "EUROCRYPT",
+    "full_name": "InternationalConferenceontheTheoryandApplicationsofCryptographicTechniques",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/eurocrypt/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "A",
+    "rank": 3,
+    "abbreviation": "S&P",
+    "full_name": "IEEESymposiumonSecurityandPrivacy",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/sp/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "A",
+    "rank": 4,
+    "abbreviation": "CRYPTO",
+    "full_name": "InternationalCryptologyConference",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/crypto/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "A",
+    "rank": 5,
+    "abbreviation": "USENIXSecurity",
+    "full_name": "USENIXSecuritySymposium",
+    "publisher": "USENIX\nAssociation",
+    "url": "http://dblp.uni-trier.de/db/conf/uss/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "A",
+    "rank": 6,
+    "abbreviation": "NDSS",
+    "full_name": "NetworkandDistributedSystemSecuritySymposium",
+    "publisher": "ISOC",
+    "url": "http://dblp.uni-trier.de/db/conf/ndss/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "B",
+    "rank": 1,
+    "abbreviation": "ACSAC",
+    "full_name": "AnnualComputerSecurityApplicationsConference",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/ancs/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "B",
+    "rank": 2,
+    "abbreviation": "ASIACRYPT",
+    "full_name": "AnnualInternationalConferenceontheTheoryandApplicationofCryptologyandInformationSecurity",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/apnoms/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "B",
+    "rank": 3,
+    "abbreviation": "ESORICS",
+    "full_name": "EuropeanSymposiumonResearchinComputerSecurity",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/forte/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "B",
+    "rank": 4,
+    "abbreviation": "FSE",
+    "full_name": "FastSoftwareEncryption",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/lcn/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "B",
+    "rank": 5,
+    "abbreviation": "CSFW",
+    "full_name": "IEEEComputerSecurityFoundationsWorkshop",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/globecom/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "B",
+    "rank": 6,
+    "abbreviation": "SRDS",
+    "full_name": "IEEEInternationalSymposiumonReliableDistributedSystems",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/icc/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "B",
+    "rank": 7,
+    "abbreviation": "CHES",
+    "full_name": "InternationalConferenceonCryptographicHardwareandEmbeddedSystems",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/icccn/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "B",
+    "rank": 8,
+    "abbreviation": "DSN",
+    "full_name": "InternationalConferenceonDependableSystemsandNetworks",
+    "publisher": "IEEE/\nIFIP",
+    "url": "http://dblp.uni-trier.de/db/conf/mass/index.html"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "B",
+    "rank": 9,
+    "abbreviation": "RAID",
+    "full_name": "InternationalSymposiumonRecentAdvancesinIntrusionDetection",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/p2p/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "B",
+    "rank": 10,
+    "abbreviation": "PKC",
+    "full_name": "InternationalWorkshoponPracticeandTheoryinPublicKeyCryptography",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/ipccc/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "B",
+    "rank": 11,
+    "abbreviation": "TCC",
+    "full_name": "TheoryofCryptographyConference",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/wowmom/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "C",
+    "rank": 1,
+    "abbreviation": "WiSec",
+    "full_name": "ACMConferenceonSecurityandPrivacyinWirelessandMobileNetworks",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/ancs/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "C",
+    "rank": 2,
+    "abbreviation": "SACMAT",
+    "full_name": "ACMSymposiumonAccessControlModelsandTechnologies",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/apnoms/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "C",
+    "rank": 3,
+    "abbreviation": "DRM",
+    "full_name": "ACMWorkshoponDigitalRightsManagement",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/forte/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "C",
+    "rank": 4,
+    "abbreviation": "IH&MMSec",
+    "full_name": "ACMWorkshoponInformationHidingandMultimediaSecurity",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/lcn/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "C",
+    "rank": 5,
+    "abbreviation": "ACNS",
+    "full_name": "InternationalConferenceonAppliedCryptographyandNetworkSecurity",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/globecom/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "C",
+    "rank": 6,
+    "abbreviation": "AsiaCCS",
+    "full_name": "ACMAsiaConferenceonComputerandCommunicationsSecurity",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/icc/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "C",
+    "rank": 7,
+    "abbreviation": "ACISP",
+    "full_name": "AustralasiaConferenceonInformationSecurityandPrivacy",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/icccn/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "C",
+    "rank": 8,
+    "abbreviation": "CT-RSA",
+    "full_name": "TheCryptographer'sTrackatRSAConference",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/mass/index.html"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "C",
+    "rank": 9,
+    "abbreviation": "DIMVA",
+    "full_name": "ConferenceonDetectionofIntrusionsandMalware&VulnerabilityAssessment",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/p2p/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "C",
+    "rank": 10,
+    "abbreviation": "DFRWS",
+    "full_name": "DigitalForensicResearchWorkshop",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/conf/ipccc/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "C",
+    "rank": 11,
+    "abbreviation": "FC",
+    "full_name": "FinancialCryptographyandDataSecurity",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/wowmom/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "C",
+    "rank": 12,
+    "abbreviation": "TrustCom",
+    "full_name": "IEEEInternationalConferenceonTrust,SecurityandPrivacyinComputingandCommunications",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/iscc/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "C",
+    "rank": 13,
+    "abbreviation": "SEC",
+    "full_name": "IFIPInternationalInformationSecurityConference",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/sec/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "C",
+    "rank": 14,
+    "abbreviation": "IFIPWG11.9",
+    "full_name": "IFIPWorkingGroup11.9InternationalConferenceonDigitalForensics",
+    "publisher": "Springer",
+    "url": "https://dblp.org/db/conf/ifip11-9/index.html"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "C",
+    "rank": 15,
+    "abbreviation": "ISC",
+    "full_name": "InformationSecurityConference",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/isw/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "C",
+    "rank": 16,
+    "abbreviation": "ICDF2C",
+    "full_name": "InternationalConferenceonDigitalForensics&CyberCrime",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/icdf2c/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "C",
+    "rank": 17,
+    "abbreviation": "ICICS",
+    "full_name": "InternationalConferenceonInformationandCommunicationsSecurity",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/icics/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "C",
+    "rank": 18,
+    "abbreviation": "SecureComm",
+    "full_name": "InternationalConferenceonSecurityandPrivacyinCommunicationNetworks",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/securecomm/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "C",
+    "rank": 19,
+    "abbreviation": "NSPW",
+    "full_name": "NewSecurityParadigmsWorkshop",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/nspw/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "C",
+    "rank": 20,
+    "abbreviation": "PAM",
+    "full_name": "PassiveandActiveMeasurementConference",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/pam/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "C",
+    "rank": 21,
+    "abbreviation": "PETS",
+    "full_name": "PrivacyEnhancingTechnologiesSymposium",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/pet/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "C",
+    "rank": 22,
+    "abbreviation": "SAC",
+    "full_name": "SelectedAreasinCryptography",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/sacrypt/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "C",
+    "rank": 23,
+    "abbreviation": "SOUPS",
+    "full_name": "SymposiumOnUsablePrivacyandSecurity",
+    "publisher": "USENIX",
+    "url": "http://dblp.uni-trier.de/db/conf/soups/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "C",
+    "rank": 24,
+    "abbreviation": "HotSec",
+    "full_name": "USENIXWorkshoponHotTopicsinSecurity",
+    "publisher": "USENIX",
+    "url": "http://www.usenix.org/events/"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "C",
+    "rank": 25,
+    "abbreviation": "EuroS&P",
+    "full_name": "IEEEEuropeanSymposiumonSecurityandPrivacy",
+    "publisher": "IEEE",
+    "url": "https://dblp.org/db/conf/eurosp/index.html"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "C",
+    "rank": 26,
+    "abbreviation": "Inscrypt",
+    "full_name": "InternationalConferenceonInformationSecurityandCryptology",
+    "publisher": "Springer",
+    "url": "https://dblp.org/db/conf/cisc/index.html"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "C",
+    "rank": 27,
+    "abbreviation": "CODASPY",
+    "full_name": "ConferenceonDataandApplicationSecurityandPrivacy",
+    "publisher": "ACM",
+    "url": "https://dblp.uni-trier.de/db/conf/codaspy/index.html"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "C",
+    "rank": 28,
+    "abbreviation": "BlockSys",
+    "full_name": "InternationalConferenceonBlockchain,ArtificialIntelligence,andTrustworthySystems",
+    "publisher": "Springer",
+    "url": "https://dblp.uni-trier.de/db/conf/blocksys/index.html"
+  },
+  {
+    "field": "网络与信息安全",
+    "type": "会议",
+    "class": "C",
+    "rank": 29,
+    "abbreviation": "CSCloud",
+    "full_name": "InternationalConferenceonCyberSecurityandCloudComputing",
+    "publisher": "IEEE\nCSCloud\nSteering\nCommittee",
+    "url": "https://dblp.uni-trier.de/db/conf/cscloud/index.html"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "A",
+    "rank": 1,
+    "abbreviation": "PLDI",
+    "full_name": "ACMSIGPLANConferenceonProgrammingLanguageDesignandImplementation",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/pldi/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "A",
+    "rank": 2,
+    "abbreviation": "POPL",
+    "full_name": "ACMSIGPLAN-SIGACTSymposiumonPrinciplesofProgrammingLanguages",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/popl/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "A",
+    "rank": 3,
+    "abbreviation": "FSE",
+    "full_name": "ACMInternationalConferenceontheFoundationsofSoftwareEngineering",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/sigsoft/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "A",
+    "rank": 4,
+    "abbreviation": "SOSP",
+    "full_name": "ACMSymposiumonOperatingSystemsPrinciples",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/sosp/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "A",
+    "rank": 5,
+    "abbreviation": "OOPSLA",
+    "full_name": "ConferenceonObject-OrientedProgrammingSystems,Languages,andApplications",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/oopsla/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "A",
+    "rank": 6,
+    "abbreviation": "ASE",
+    "full_name": "InternationalConferenceonAutomatedSoftwareEngineering",
+    "publisher": "IEEE/\nACM",
+    "url": "http://dblp.uni-trier.de/db/conf/kbse/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "A",
+    "rank": 7,
+    "abbreviation": "ICSE",
+    "full_name": "InternationalConferenceonSoftwareEngineering",
+    "publisher": "IEEE/\nACM",
+    "url": "http://dblp.uni-trier.de/db/conf/icse/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "A",
+    "rank": 8,
+    "abbreviation": "ISSTA",
+    "full_name": "InternationalSymposiumonSoftwareTestingandAnalysis",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/issta/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "A",
+    "rank": 9,
+    "abbreviation": "OSDI",
+    "full_name": "USENIXSymposiumonOperatingSystemsDesignandImplementation",
+    "publisher": "USENIX",
+    "url": "http://dblp.uni-trier.de/db/conf/osdi/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "A",
+    "rank": 10,
+    "abbreviation": "FM",
+    "full_name": "InternationalSymposiumonFormalMethods",
+    "publisher": "FME",
+    "url": "http://dblp.uni-trier.de/db/conf/fm/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "B",
+    "rank": 1,
+    "abbreviation": "ECOOP",
+    "full_name": "EuropeanConferenceonObject-OrientedProgramming",
+    "publisher": "AITO",
+    "url": "http://dblp.uni-trier.de/db/conf/pldi/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "B",
+    "rank": 2,
+    "abbreviation": "ETAPS",
+    "full_name": "EuropeanJointConferencesonTheoryandPracticeofSoftware",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/popl/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "B",
+    "rank": 3,
+    "abbreviation": "ICPC",
+    "full_name": "IEEEInternationalConferenceonProgramComprehension",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/sigsoft/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "B",
+    "rank": 4,
+    "abbreviation": "RE",
+    "full_name": "IEEEInternationalRequirementsEngineeringConference",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/sosp/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "B",
+    "rank": 5,
+    "abbreviation": "CAiSE",
+    "full_name": "InternationalConferenceonAdvancedInformationSystemsEngineering",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/oopsla/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "B",
+    "rank": 6,
+    "abbreviation": "ICFP",
+    "full_name": "ACMSIGPLANInternationalConferenceonFunctionProgramming",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/kbse/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "B",
+    "rank": 7,
+    "abbreviation": "LCTES",
+    "full_name": "ACMSIGPLAN/SIGBEDInternationalConferenceonLanguages,CompilersandToolsforEmbeddedSystems",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/icse/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "B",
+    "rank": 8,
+    "abbreviation": "MoDELS",
+    "full_name": "ACM/IEEEInternationalConferenceonModelDrivenEngineeringLanguagesandSystems",
+    "publisher": "IEEE/\nACM",
+    "url": "http://dblp.uni-trier.de/db/conf/issta/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "B",
+    "rank": 9,
+    "abbreviation": "CP",
+    "full_name": "InternationalConferenceonPrinciplesandPracticeofConstraintProgramming",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/osdi/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "B",
+    "rank": 10,
+    "abbreviation": "CSOC",
+    "full_name": "InternationalConferenceonServiceOrientedComputing",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/fm/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "B",
+    "rank": 11,
+    "abbreviation": "SANER",
+    "full_name": "IEEEInternationalConferenceonSoftwareAnalysis,Evolution,andReengineering",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/wcre/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "B",
+    "rank": 12,
+    "abbreviation": "ICSME",
+    "full_name": "InternationalConferenceonSoftwareMaintenanceandEvolution",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/icsm/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "B",
+    "rank": 13,
+    "abbreviation": "VMCAI",
+    "full_name": "InternationalConferenceonVerification,ModelCheckingandAbstractInterpretation",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/vmcai/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "B",
+    "rank": 14,
+    "abbreviation": "ICWS",
+    "full_name": "IEEEInternationalConferenceonWebServices",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/icws/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "B",
+    "rank": 15,
+    "abbreviation": "Middleware",
+    "full_name": "InternationalMiddlewareConference",
+    "publisher": "ACM/IFIP/\nUSENIX",
+    "url": "http://dblp.uni-trier.de/db/conf/middleware/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "B",
+    "rank": 16,
+    "abbreviation": "SAS",
+    "full_name": "InternationalStaticAnalysisSymposium",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/sas/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "B",
+    "rank": 17,
+    "abbreviation": "ESEM",
+    "full_name": "InternationalSymposiumonEmpiricalSoftwareEngineeringandMeasurement",
+    "publisher": "IEEE/\nACM",
+    "url": "http://dblp.uni-trier.de/db/conf/esem/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "B",
+    "rank": 18,
+    "abbreviation": "ISSRE",
+    "full_name": "IEEEInternationalSymposiumonSoftwareReliabilityEngineering",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/issre/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "B",
+    "rank": 19,
+    "abbreviation": "HotOS",
+    "full_name": "USENIXWorkshoponHotTopicsinOperatingSystems",
+    "publisher": "USENIX",
+    "url": "http://dblp.uni-trier.de/db/conf/hotos/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "B",
+    "rank": 20,
+    "abbreviation": "CC",
+    "full_name": "InternationalConferenceonCompilerConstruction",
+    "publisher": "ACM",
+    "url": "https://dblp.uni-trier.de/db/conf/cc/index.html"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "C",
+    "rank": 1,
+    "abbreviation": "PEPM",
+    "full_name": "ACMSIGPLANWorkshoponPartialEvaluationandProgramManipulation",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/pepm/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "C",
+    "rank": 2,
+    "abbreviation": "PASTE",
+    "full_name": "ACMSIGPLAN-SIGSOFTWorkshoponProgramAnalysisforSoftwareToolsandEngineering",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/paste/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "C",
+    "rank": 3,
+    "abbreviation": "APLAS",
+    "full_name": "AsianSymposiumonProgrammingLanguagesandSystems",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/aplas/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "C",
+    "rank": 4,
+    "abbreviation": "APSEC",
+    "full_name": "Asia-PacificSoftwareEngineeringConference",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/apsec/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "C",
+    "rank": 5,
+    "abbreviation": "EASE",
+    "full_name": "InternationalConferenceonEvaluationandAssessmentinSoftwareEngineering",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/ease/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "C",
+    "rank": 6,
+    "abbreviation": "ICECCS",
+    "full_name": "InternationalConferenceonEngineeringofComplexComputerSystems",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/iceccs/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "C",
+    "rank": 7,
+    "abbreviation": "ICST",
+    "full_name": "IEEEInternationalConferenceonSoftwareTesting,VerificationandValidation",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/icst/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "C",
+    "rank": 8,
+    "abbreviation": "ISPASS",
+    "full_name": "IEEEInternationalSymposiumonPerformanceAnalysisofSystemsandSoftware",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/ispass/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "C",
+    "rank": 9,
+    "abbreviation": "SCAM",
+    "full_name": "IEEEInternationalWorkingConferenceonSourceCodeAnalysisandManipulation",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/scam/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "C",
+    "rank": 10,
+    "abbreviation": "COMPSAC",
+    "full_name": "InternationalComputerSoftwareandApplicationsConference",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/compsac/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "C",
+    "rank": 11,
+    "abbreviation": "ICFEM",
+    "full_name": "InternationalConferenceonFormalEngineeringMethods",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/icfem/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "C",
+    "rank": 12,
+    "abbreviation": "SSE",
+    "full_name": "IEEEInternationalConferenceonSoftwareServicesEngineering",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/IEEEscc/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "C",
+    "rank": 13,
+    "abbreviation": "ICSSP",
+    "full_name": "InternationalConferenceonSoftwareandSystemProcess",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/ispw/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "C",
+    "rank": 14,
+    "abbreviation": "SEKE",
+    "full_name": "InternationalConferenceonSoftwareEngineeringandKnowledgeEngineering",
+    "publisher": "KSI",
+    "url": "http://dblp.uni-trier.de/db/conf/seke/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "C",
+    "rank": 15,
+    "abbreviation": "QRS",
+    "full_name": "InternationalConferenceonSoftwareQuality,ReliabilityandSecurity",
+    "publisher": "IEEE",
+    "url": "https://dblp.uni-trier.de/db/conf/qrs/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "C",
+    "rank": 16,
+    "abbreviation": "ICSR",
+    "full_name": "InternationalConferenceonSoftwareReuse",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/icsr/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "C",
+    "rank": 17,
+    "abbreviation": "ICWE",
+    "full_name": "InternationalConferenceonWebEngineering",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/icwe/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "C",
+    "rank": 18,
+    "abbreviation": "SPIN",
+    "full_name": "InternationalSymposiumonModelCheckingofSoftware",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/spin/index.html"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "C",
+    "rank": 19,
+    "abbreviation": "ATVA",
+    "full_name": "InternationalSymposiumonAutomatedTechnologyforVerificationandAnalysis",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/atva/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "C",
+    "rank": 20,
+    "abbreviation": "LOPSTR",
+    "full_name": "InternationalSymposiumonLogic-basedProgramSynthesisandTransformation",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/lopstr/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "C",
+    "rank": 21,
+    "abbreviation": "TASE",
+    "full_name": "TheoreticalAspectsofSoftwareEngineeringConference",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/tase/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "C",
+    "rank": 22,
+    "abbreviation": "MSR",
+    "full_name": "MiningSoftwareRepositories",
+    "publisher": "IEEE/\nACM",
+    "url": "http://dblp.uni-trier.de/db/conf/msr/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "C",
+    "rank": 23,
+    "abbreviation": "REFSQ",
+    "full_name": "RequirementsEngineering:FoundationforSoftwareQuality",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/refsq/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "C",
+    "rank": 24,
+    "abbreviation": "WICSA",
+    "full_name": "WorkingIEEE/IFIPConferenceonSoftwareArchitecture",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/wicsa/"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "C",
+    "rank": 25,
+    "abbreviation": "Internetware",
+    "full_name": "Asia-PacificSymposiumonInternetware",
+    "publisher": "ACM",
+    "url": "https://dblp.org/db/conf/internetware/index.html"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "C",
+    "rank": 26,
+    "abbreviation": "RV",
+    "full_name": "InternationalConferenceonRuntimeVerification",
+    "publisher": "Springer",
+    "url": "https://dblp.org/db/conf/rv/index.html"
+  },
+  {
+    "field": "软件工程/系统软件/程序设计语言",
+    "type": "会议",
+    "class": "C",
+    "rank": 27,
+    "abbreviation": "MEMOCODE",
+    "full_name": "InternationalConferenceonFormalMethodsandModelsforCo-Design",
+    "publisher": "IEEE/\nACM",
+    "url": "https://dblp.uni-trier.de/db/conf/memocode/index.html"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "会议",
+    "class": "A",
+    "rank": 1,
+    "abbreviation": "SIGMOD",
+    "full_name": "ACMSIGMODConference",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/sigmod/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "会议",
+    "class": "A",
+    "rank": 2,
+    "abbreviation": "SIGKDD",
+    "full_name": "ACMSIGKDDConferenceonKnowledgeDiscoveryandDataMining",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/kdd/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "会议",
+    "class": "A",
+    "rank": 3,
+    "abbreviation": "ICDE",
+    "full_name": "IEEEInternationalConferenceonDataEngineering",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/icde/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "会议",
+    "class": "A",
+    "rank": 4,
+    "abbreviation": "SIGIR",
+    "full_name": "InternationalACMSIGIRConferenceonResearchandDevelopmentinInformationRetrieval",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/sigir/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "会议",
+    "class": "A",
+    "rank": 5,
+    "abbreviation": "VLDB",
+    "full_name": "InternationalConferenceonVeryLargeDataBases",
+    "publisher": "Morgan\nKaufmann/\nACM",
+    "url": "http://dblp.uni-trier.de/db/conf/vldb/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "会议",
+    "class": "B",
+    "rank": 1,
+    "abbreviation": "CIKM",
+    "full_name": "ACMInternationalConferenceonInformationandKnowledgeManagement",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/journals/tkdd/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "会议",
+    "class": "B",
+    "rank": 2,
+    "abbreviation": "WSDM",
+    "full_name": "ACMInternationalConferenceonWebSearchandDataMining",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/journals/tweb/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "会议",
+    "class": "B",
+    "rank": 3,
+    "abbreviation": "PODS",
+    "full_name": "ACMSIGMOD-SIGACT-SIGAISymposiumonPrinciplesofDatabaseSystems",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/journals/aei/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "会议",
+    "class": "B",
+    "rank": 4,
+    "abbreviation": "DASFAA",
+    "full_name": "InternationalConferenceonDatabaseSystemsforAdvancedApplications",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/dke/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "会议",
+    "class": "B",
+    "rank": 5,
+    "abbreviation": "ECML-PKDD",
+    "full_name": "EuropeanConferenceonMachineLearningandPrinciplesandPracticeofKnowledgeDiscoveryinDatabases",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/datamine/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "会议",
+    "class": "B",
+    "rank": 6,
+    "abbreviation": "ISWC",
+    "full_name": "IEEEInternationalSemanticWebConference",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/journals/ejis/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "会议",
+    "class": "B",
+    "rank": 7,
+    "abbreviation": "ICDM",
+    "full_name": "IEEEInternationalConferenceonDataMining",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/journals/geoinformatica/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "会议",
+    "class": "B",
+    "rank": 8,
+    "abbreviation": "ICDT",
+    "full_name": "InternationalConferenceonDatabaseTheory",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/ipm/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "会议",
+    "class": "B",
+    "rank": 9,
+    "abbreviation": "EDBT",
+    "full_name": "InternationalConferenceonExtendingDatabaseTechnology",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/isci/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "会议",
+    "class": "B",
+    "rank": 10,
+    "abbreviation": "CIDR",
+    "full_name": "ConferenceonInnovativeDataSystemsResearch",
+    "publisher": "Online\nProceeding",
+    "url": "http://dblp.uni-trier.de/db/journals/is/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "会议",
+    "class": "B",
+    "rank": 11,
+    "abbreviation": "SDM",
+    "full_name": "SIAMInternationalConferenceonDataMining",
+    "publisher": "SIAM",
+    "url": "http://dblp.uni-trier.de/db/journals/jasis/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "会议",
+    "class": "B",
+    "rank": 12,
+    "abbreviation": "RecSys",
+    "full_name": "ACMConferenceonRecommenderSystems",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/journals/ws/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "会议",
+    "class": "B",
+    "rank": 13,
+    "abbreviation": "WISE",
+    "full_name": "WebInformationSystemsEngineeringConference",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/wise/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "会议",
+    "class": "C",
+    "rank": 1,
+    "abbreviation": "APWeb",
+    "full_name": "AsiaPacificWebConference",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/apweb/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "会议",
+    "class": "C",
+    "rank": 2,
+    "abbreviation": "DEXA",
+    "full_name": "InternationalConferenceonDatabaseandExpertSystemApplications",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/dexa/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "会议",
+    "class": "C",
+    "rank": 3,
+    "abbreviation": "ECIR",
+    "full_name": "EuropeanConferenceonInformationRetrieval",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/ecir/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "会议",
+    "class": "C",
+    "rank": 4,
+    "abbreviation": "ESWC",
+    "full_name": "ExtendedSemanticWebConference",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/esws/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "会议",
+    "class": "C",
+    "rank": 5,
+    "abbreviation": "WebDB",
+    "full_name": "InternationalWorkshoponWebandDatabases",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/webdb/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "会议",
+    "class": "C",
+    "rank": 6,
+    "abbreviation": "ER",
+    "full_name": "InternationalConferenceonConceptualModeling",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/er/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "会议",
+    "class": "C",
+    "rank": 7,
+    "abbreviation": "MDM",
+    "full_name": "InternationalConferenceonMobileDataManagement",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/mdm/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "会议",
+    "class": "C",
+    "rank": 8,
+    "abbreviation": "SSDBM",
+    "full_name": "InternationalConferenceonScientificandStatisticalDatabaseManagement",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/ssdbm/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "会议",
+    "class": "C",
+    "rank": 9,
+    "abbreviation": "WAIM",
+    "full_name": "InternationalConferenceonWebAgeInformationManagement",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/waim/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "会议",
+    "class": "C",
+    "rank": 10,
+    "abbreviation": "SSTD",
+    "full_name": "InternationalSymposiumonSpatialandTemporalDatabases",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/ssd/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "会议",
+    "class": "C",
+    "rank": 11,
+    "abbreviation": "PAKDD",
+    "full_name": "Pacific-AsiaConferenceonKnowledgeDiscoveryandDataMining",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/pakdd/"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "会议",
+    "class": "C",
+    "rank": 12,
+    "abbreviation": "ADMA",
+    "full_name": "InternationalConferenceonAdvancedDataMiningandApplications",
+    "publisher": "Springer",
+    "url": "https://dblp.org/db/conf/adma/index.html"
+  },
+  {
+    "field": "数据库/数据挖掘/内容检索",
+    "type": "会议",
+    "class": "C",
+    "rank": 13,
+    "abbreviation": "WISA",
+    "full_name": "WebInformationSystemsandApplications",
+    "publisher": "Springer",
+    "url": "https://dblp.org/db/conf/wisa/index.html"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "会议",
+    "class": "A",
+    "rank": 1,
+    "abbreviation": "STOC",
+    "full_name": "ACMSymposiumontheTheoryofComputing",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/stoc/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "会议",
+    "class": "A",
+    "rank": 2,
+    "abbreviation": "SODA",
+    "full_name": "ACM-SIAMSymposiumonDiscreteAlgorithms",
+    "publisher": "SIAM",
+    "url": "http://dblp.uni-trier.de/db/conf/soda/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "会议",
+    "class": "A",
+    "rank": 3,
+    "abbreviation": "CAV",
+    "full_name": "InternationalConferenceonComputerAidedVerification",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/cav/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "会议",
+    "class": "A",
+    "rank": 4,
+    "abbreviation": "FOCS",
+    "full_name": "IEEEAnnualSymposiumonFoundationsofComputerScience",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/focs/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "会议",
+    "class": "A",
+    "rank": 5,
+    "abbreviation": "LICS",
+    "full_name": "ACM/IEEESymposiumonLogicinComputerScience",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/lics/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "会议",
+    "class": "B",
+    "rank": 1,
+    "abbreviation": "SoCG",
+    "full_name": "InternationalSymposiumonComputationalGeometry",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/compgeom/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "会议",
+    "class": "B",
+    "rank": 2,
+    "abbreviation": "ESA",
+    "full_name": "EuropeanSymposiumonAlgorithms",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/esa/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "会议",
+    "class": "B",
+    "rank": 3,
+    "abbreviation": "CCC",
+    "full_name": "ConferenceonComputationalComplexity",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/coco/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "会议",
+    "class": "B",
+    "rank": 4,
+    "abbreviation": "ICALP",
+    "full_name": "InternationalColloquiumonAutomata,LanguagesandProgramming",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/icalp/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "会议",
+    "class": "B",
+    "rank": 5,
+    "abbreviation": "CADE",
+    "full_name": "ConferenceonAutomatedDeduction",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/cade/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "会议",
+    "class": "B",
+    "rank": 6,
+    "abbreviation": "CONCUR",
+    "full_name": "InternationalConferenceonConcurrencyTheory",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/concur/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "会议",
+    "class": "B",
+    "rank": 7,
+    "abbreviation": "HSCC",
+    "full_name": "InternationalConferenceonHybridSystems:ComputationandControl",
+    "publisher": "Springer/\nACM",
+    "url": "http://dblp.uni-trier.de/db/conf/hybrid/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "会议",
+    "class": "B",
+    "rank": 8,
+    "abbreviation": "SAT",
+    "full_name": "InternationalConferenceonTheoryandApplicationsofSatisfiabilityTesting",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/sat/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "会议",
+    "class": "B",
+    "rank": 9,
+    "abbreviation": "COCOON",
+    "full_name": "InternationalComputingandCombinatoricsConference",
+    "publisher": "Springer",
+    "url": "https://dblp.org/db/conf/cocoon/index.html"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "会议",
+    "class": "B",
+    "rank": 10,
+    "abbreviation": "FMCAD",
+    "full_name": "FormalMethodsinComputer-AidedDesign",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/journals/apal/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "会议",
+    "class": "C",
+    "rank": 1,
+    "abbreviation": "CSL",
+    "full_name": "ComputerScienceLogic",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/acta/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "会议",
+    "class": "C",
+    "rank": 2,
+    "abbreviation": "FSTTCS",
+    "full_name": "FoundationsofSoftwareTechnologyandTheoreticalComputerScience",
+    "publisher": "IndianAssociation\nforResearchin\nComputingScience",
+    "url": "http://dblp.uni-trier.de/db/journals/dam/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "会议",
+    "class": "C",
+    "rank": 3,
+    "abbreviation": "DSAA",
+    "full_name": "IEEEInternationalConferenceonDataScienceandAdvancedAnalytics",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/journals/fuin/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "会议",
+    "class": "C",
+    "rank": 4,
+    "abbreviation": "ICTAC",
+    "full_name": "InternationalColloquiumonTheoreticalAspectsofComputing",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/ipl/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "会议",
+    "class": "C",
+    "rank": 5,
+    "abbreviation": "IPCO",
+    "full_name": "InternationalConferenceonIntegerProgrammingandCombinatorialOptimization",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/jc/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "会议",
+    "class": "C",
+    "rank": 6,
+    "abbreviation": "FSCD\n（原RTA）",
+    "full_name": "InternationalConferenceonFormalStructuresforComputationandDeduction",
+    "publisher": "DagstuhlLeibniz\nLIPIcs",
+    "url": "http://dblp.uni-trier.de/db/journals/logcom/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "会议",
+    "class": "C",
+    "rank": 7,
+    "abbreviation": "ISAAC",
+    "full_name": "InternationalSymposiumonAlgorithmsandComputation",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/jsyml/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "会议",
+    "class": "C",
+    "rank": 8,
+    "abbreviation": "MFCS",
+    "full_name": "InternationalConferenceonMathematicalFoundationsofComputerScience",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/lmcs/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "会议",
+    "class": "C",
+    "rank": 9,
+    "abbreviation": "STACS",
+    "full_name": "SymposiumonTheoreticalAspectsofComputerScience",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/journals/siamdm/"
+  },
+  {
+    "field": "计算机科学理论",
+    "type": "会议",
+    "class": "C",
+    "rank": 10,
+    "abbreviation": "SETTA",
+    "full_name": "InternationalSymposiumonSoftwareEngineering:Theories,Tools,andApplications",
+    "publisher": "Springer",
+    "url": "https://dblp.uni-trier.de/db/conf/setta/index.html"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "A",
+    "rank": 1,
+    "abbreviation": "ACMMM",
+    "full_name": "ACMInternationalConferenceonMultimedia",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/mm/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "A",
+    "rank": 2,
+    "abbreviation": "SIGGRAPH",
+    "full_name": "ACMSpecialInterestGrouponComputerGraphics",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/siggraph/index.html"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "A",
+    "rank": 3,
+    "abbreviation": "VR",
+    "full_name": "IEEEVirtualReality",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/vr/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "A",
+    "rank": 4,
+    "abbreviation": "IEEEVIS",
+    "full_name": "IEEEVisualizationConference",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/visualization/index.html"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "B",
+    "rank": 1,
+    "abbreviation": "ICMR",
+    "full_name": "ACMSIGMMInternationalConferenceonMultimediaRetrieval",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/mir/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "B",
+    "rank": 2,
+    "abbreviation": "I3D",
+    "full_name": "ACMSIGGRAPHSymposiumonInteractive3DGraphicsandGames",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/si3d/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "B",
+    "rank": 3,
+    "abbreviation": "SCA",
+    "full_name": "ACMSIGGRAPH/EurographicsSymposiumonComputerAnimation",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/sca/index.html"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "B",
+    "rank": 4,
+    "abbreviation": "DCC",
+    "full_name": "DataCompressionConference",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/dcc/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "B",
+    "rank": 5,
+    "abbreviation": "Eurographics",
+    "full_name": "AnnualConferenceoftheEuropeanAssociationforComputerGraphics",
+    "publisher": "Wiley/\nBlackwell",
+    "url": "http://dblp.uni-trier.de/db/conf/eurographics/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "B",
+    "rank": 6,
+    "abbreviation": "EuroVis",
+    "full_name": "EurographicsConferenceonVisualization",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/vissym/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "B",
+    "rank": 7,
+    "abbreviation": "SGP",
+    "full_name": "EurographicsSymposiumonGeometryProcessing",
+    "publisher": "Wiley/\nBlackwell",
+    "url": "http://dblp.uni-trier.de/db/conf/sgp/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "B",
+    "rank": 8,
+    "abbreviation": "EGSR",
+    "full_name": "EurographicsSymposiumonRendering",
+    "publisher": "Wiley/\nBlackwell",
+    "url": "http://dblp.uni-trier.de/db/conf/rt/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "B",
+    "rank": 9,
+    "abbreviation": "ICASSP",
+    "full_name": "IEEEInternationalConferenceonAcoustics,SpeechandSignalProcessing",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/icassp/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "B",
+    "rank": 10,
+    "abbreviation": "ICME",
+    "full_name": "IEEEInternationalConferenceonMultimedia&Expo",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/icmcs/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "B",
+    "rank": 11,
+    "abbreviation": "ISMAR",
+    "full_name": "InternationalSymposiumonMixedandAugmentedReality",
+    "publisher": "IEEE/\nACM",
+    "url": "http://dblp.uni-trier.de/db/conf/ismar/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "B",
+    "rank": 12,
+    "abbreviation": "PG",
+    "full_name": "PacificConferenceonComputerGraphicsandApplications",
+    "publisher": "Wiley/\nBlackwell",
+    "url": "http://dblp.uni-trier.de/db/conf/pg/index.html"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "B",
+    "rank": 13,
+    "abbreviation": "SPM",
+    "full_name": "SymposiumonSolidandPhysicalModeling",
+    "publisher": "SMA/\nElsevier",
+    "url": "http://dblp.uni-trier.de/db/conf/sma/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "B",
+    "rank": 14,
+    "abbreviation": "INTER-\nSPEECH",
+    "full_name": "ConferenceoftheInternationalSpeechCommunicationAssociation",
+    "publisher": "ISCA",
+    "url": "http://dblp.uni-trier.de/db/conf/interspeech/index.html"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "C",
+    "rank": 1,
+    "abbreviation": "VRST",
+    "full_name": "ACMSymposiumonVirtualRealitySoftwareandTechnology",
+    "publisher": "ACM",
+    "url": "http://dblp2.uni-trier.de/db/conf/vrst/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "C",
+    "rank": 2,
+    "abbreviation": "CASA",
+    "full_name": "InternationalConferenceonComputerAnimationandSocialAgents",
+    "publisher": "Wiley",
+    "url": "http://dblp.uni-trier.de/db/conf/ca/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "C",
+    "rank": 3,
+    "abbreviation": "CGI",
+    "full_name": "ComputerGraphicsInternational",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/cgi/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "C",
+    "rank": 4,
+    "abbreviation": "GMP",
+    "full_name": "GeometricModelingandProcessing",
+    "publisher": "Elsevier",
+    "url": "http://dblp.uni-trier.de/db/conf/gmp/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "C",
+    "rank": 5,
+    "abbreviation": "PacificVis",
+    "full_name": "IEEEPacificVisualizationSymposium",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/apvis/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "C",
+    "rank": 6,
+    "abbreviation": "3DV",
+    "full_name": "InternationalConferenceon3DVision",
+    "publisher": "IEEE",
+    "url": "https://dblp.uni-trier.de/db/conf/3dim/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "C",
+    "rank": 7,
+    "abbreviation": "CAD/Graphics",
+    "full_name": "InternationalConferenceonComputer-AidedDesignandComputerGraphicsProcessing",
+    "publisher": "IEEE",
+    "url": "https://dblp.uni-trier.de/db/conf/cadgraphics/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "C",
+    "rank": 8,
+    "abbreviation": "ICIP",
+    "full_name": "IEEEInternationalConferenceonImageProcessing",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/icip/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "C",
+    "rank": 9,
+    "abbreviation": "MMM",
+    "full_name": "InternationalConferenceonMultimediaModeling",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/mmm/index.html"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "C",
+    "rank": 10,
+    "abbreviation": "MMAsia",
+    "full_name": "ACMMultimediaAsia",
+    "publisher": "ACM",
+    "url": "https://dblp.uni-trier.de/db/conf/mmasia/index.html"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "C",
+    "rank": 11,
+    "abbreviation": "SMI",
+    "full_name": "ShapeModelingInternational",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/smi/"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "C",
+    "rank": 12,
+    "abbreviation": "ICVRV",
+    "full_name": "InternationalConferenceonVirtualRealityandVisualization",
+    "publisher": "IEEE",
+    "url": "https://www.computer.org/csdl/proceedings/1800579"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "C",
+    "rank": 13,
+    "abbreviation": "CVM",
+    "full_name": "ComputationalVisualMedia",
+    "publisher": "Tsinghua\nUniversity",
+    "url": "https://dblp.org/db/conf/cvm/index.html"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "C",
+    "rank": 14,
+    "abbreviation": "PRCV",
+    "full_name": "ChineseConferenceonPatternRecognitionandComputerVision",
+    "publisher": "Springer",
+    "url": "https://dblp.org/db/conf/prcv/index.html"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "C",
+    "rank": 15,
+    "abbreviation": "ICIG",
+    "full_name": "InternationalConferenceonImageandGraphics",
+    "publisher": "Springer",
+    "url": "https://dblp.uni-trier.de/db/conf/icig/index.html"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "C",
+    "rank": 16,
+    "abbreviation": "NCMMSC",
+    "full_name": "NationalConferenceonMan-MachineSpeechCommunication",
+    "publisher": "CCF/中国中\n文信息学会",
+    "url": "https://dblp.uni-trier.de/search?q=NCMMSC"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "C",
+    "rank": 17,
+    "abbreviation": "ASRU",
+    "full_name": "AutomaticSpeechRecognitionandUnderstandingWorkshop",
+    "publisher": "IEEESLTC",
+    "url": "https://dblp.uni-trier.de/db/conf/asru/index.html"
+  },
+  {
+    "field": "计算机图形学与多媒体",
+    "type": "会议",
+    "class": "C",
+    "rank": 18,
+    "abbreviation": "SLT",
+    "full_name": "SpokenLanguageTechnology",
+    "publisher": "IEEESLTC",
+    "url": "https://dblp.uni-trier.de/db/conf/slt/index.html"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "A",
+    "rank": 1,
+    "abbreviation": "AAAI",
+    "full_name": "AAAIConferenceonArtificialIntelligence",
+    "publisher": "AAAI",
+    "url": "http://dblp.uni-trier.de/db/conf/aaai/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "A",
+    "rank": 2,
+    "abbreviation": "NeurIPS",
+    "full_name": "ConferenceonNeuralInformationProcessingSystems",
+    "publisher": "MITPress",
+    "url": "http://dblp.uni-trier.de/db/conf/nips/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "A",
+    "rank": 3,
+    "abbreviation": "ACL",
+    "full_name": "AnnualMeetingoftheAssociationforComputationalLinguistics",
+    "publisher": "ACL",
+    "url": "http://dblp.uni-trier.de/db/conf/acl/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "A",
+    "rank": 4,
+    "abbreviation": "CVPR",
+    "full_name": "IEEE/CVFComputerVisionandPatternRecognitionConference",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/cvpr/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "A",
+    "rank": 5,
+    "abbreviation": "ICCV",
+    "full_name": "InternationalConferenceonComputerVision",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/iccv/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "A",
+    "rank": 6,
+    "abbreviation": "ICML",
+    "full_name": "InternationalConferenceonMachineLearning",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/icml/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "A",
+    "rank": 7,
+    "abbreviation": "ICLR",
+    "full_name": "InternationalConferenceonLearningRepresentations",
+    "publisher": "OpenReview",
+    "url": "https://dblp.uni-trier.de/db/conf/iclr/index.html"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "B",
+    "rank": 1,
+    "abbreviation": "COLT",
+    "full_name": "AnnualConferenceonComputationalLearningTheory",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/colt/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "B",
+    "rank": 2,
+    "abbreviation": "EMNLP",
+    "full_name": "ConferenceonEmpiricalMethodsinNaturalLanguageProcessing",
+    "publisher": "ACL",
+    "url": "http://dblp.uni-trier.de/db/conf/emnlp/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "B",
+    "rank": 3,
+    "abbreviation": "ECAI",
+    "full_name": "EuropeanConferenceonArtificialIntelligence",
+    "publisher": "IOSPress",
+    "url": "http://dblp.uni-trier.de/db/conf/ecai/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "B",
+    "rank": 4,
+    "abbreviation": "ECCV",
+    "full_name": "EuropeanConferenceonComputerVision",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/eccv/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "B",
+    "rank": 5,
+    "abbreviation": "ICRA",
+    "full_name": "IEEEInternationalConferenceonRoboticsandAutomation",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/icra/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "B",
+    "rank": 6,
+    "abbreviation": "ICAPS",
+    "full_name": "InternationalConferenceonAutomatedPlanningandScheduling",
+    "publisher": "AAAI",
+    "url": "http://dblp.uni-trier.de/db/conf/aips/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "B",
+    "rank": 7,
+    "abbreviation": "ICCBR",
+    "full_name": "InternationalConferenceonCase-BasedReasoning",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/iccbr/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "B",
+    "rank": 8,
+    "abbreviation": "COLING",
+    "full_name": "InternationalConferenceonComputationalLinguistics",
+    "publisher": "InternationalCommittee\nonComputational\nLinguistics",
+    "url": "http://dblp.uni-trier.de/db/conf/coling/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "B",
+    "rank": 9,
+    "abbreviation": "KR",
+    "full_name": "InternationalConferenceonPrinciplesofKnowledgeRepresentationandReasoning",
+    "publisher": "MorganKaufmann",
+    "url": "http://dblp.uni-trier.de/db/conf/kr/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "B",
+    "rank": 10,
+    "abbreviation": "UAI",
+    "full_name": "ConferenceonUncertaintyinArtificialIntelligence",
+    "publisher": "AUAI",
+    "url": "http://dblp.uni-trier.de/db/conf/uai/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "B",
+    "rank": 11,
+    "abbreviation": "AAMAS",
+    "full_name": "InternationalJointConferenceonAutonomousAgentsandMulti-agentSystems",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-\ntrier.de/db/conf/atal/index.html"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "B",
+    "rank": 12,
+    "abbreviation": "PPSN",
+    "full_name": "ParallelProblemSolvingfromNature",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/ppsn/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "B",
+    "rank": 13,
+    "abbreviation": "NAACL",
+    "full_name": "NorthAmericanChapteroftheAssociationforComputationalLinguistics",
+    "publisher": "Associationfor\nComputationalLinguistics",
+    "url": "http://dblp.uni-trier.de/db/conf/naacl/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "B",
+    "rank": 14,
+    "abbreviation": "IJCAI",
+    "full_name": "InternationalJointConferenceonArtificialIntelligence",
+    "publisher": "MorganKaufmann",
+    "url": "http://dblp.uni-trier.de/db/conf/ijcai/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "C",
+    "rank": 1,
+    "abbreviation": "AISTATS",
+    "full_name": "InternationalConferenceonArtificialIntelligenceandStatistics",
+    "publisher": "JMLR",
+    "url": "http://dblp.uni-trier.de/db/conf/aistats/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "C",
+    "rank": 2,
+    "abbreviation": "ACCV",
+    "full_name": "AsianConferenceonComputerVision",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/accv/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "C",
+    "rank": 3,
+    "abbreviation": "ACML",
+    "full_name": "AsianConferenceonMachineLearning",
+    "publisher": "JMLR",
+    "url": "http://dblp.uni-trier.de/db/conf/acml/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "C",
+    "rank": 4,
+    "abbreviation": "BMVC",
+    "full_name": "BritishMachineVisionConference",
+    "publisher": "BritishMachine\nVisionAssociation",
+    "url": "http://dblp.uni-trier.de/db/conf/bmvc/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "C",
+    "rank": 5,
+    "abbreviation": "NLPCC",
+    "full_name": "CCFInternationalConferenceonNaturalLanguageProcessingandChineseComputing",
+    "publisher": "Springer",
+    "url": "https://dblp.uni-trier.de/db/conf/nlpcc/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "C",
+    "rank": 6,
+    "abbreviation": "CoNLL",
+    "full_name": "ConferenceonComputationalNaturalLanguageLearning",
+    "publisher": "Associationfor\nComputational\nLinguistics",
+    "url": "http://dblp.uni-trier.de/db/conf/conll"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "C",
+    "rank": 7,
+    "abbreviation": "GECCO",
+    "full_name": "GeneticandEvolutionaryComputationConference",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/gecco/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "C",
+    "rank": 8,
+    "abbreviation": "ICTAI",
+    "full_name": "IEEEInternationalConferenceonToolswithArtificialIntelligence",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/ictai/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "C",
+    "rank": 9,
+    "abbreviation": "IROS",
+    "full_name": "IEEE\\RSJInternationalConferenceonIntelligentRobotsandSystems",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/iros/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "C",
+    "rank": 10,
+    "abbreviation": "ALT",
+    "full_name": "InternationalConferenceonAlgorithmicLearningTheory",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/alt/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "C",
+    "rank": 11,
+    "abbreviation": "ICANN",
+    "full_name": "InternationalConferenceonArtificialNeuralNetworks",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/icann/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "C",
+    "rank": 12,
+    "abbreviation": "FG",
+    "full_name": "IEEEInternationalConferenceonAutomaticFaceandGestureRecognition",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/fgr/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "C",
+    "rank": 13,
+    "abbreviation": "ICDAR",
+    "full_name": "InternationalConferenceonDocumentAnalysisandRecognition",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/icdar/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "C",
+    "rank": 14,
+    "abbreviation": "ILP",
+    "full_name": "InternationalConferenceonInductiveLogicProgramming",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/ilp/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "C",
+    "rank": 15,
+    "abbreviation": "KSEM",
+    "full_name": "InternationalconferenceonKnowledgeScience,EngineeringandManagement",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/ksem/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "C",
+    "rank": 16,
+    "abbreviation": "ICONIP",
+    "full_name": "InternationalConferenceonNeuralInformationProcessing",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/iconip/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "C",
+    "rank": 17,
+    "abbreviation": "ICPR",
+    "full_name": "InternationalConferenceonPatternRecognition",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/icpr/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "C",
+    "rank": 18,
+    "abbreviation": "IJCB",
+    "full_name": "InternationalJointConferenceonBiometrics",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/icb/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "C",
+    "rank": 19,
+    "abbreviation": "IJCNN",
+    "full_name": "InternationalJointConferenceonNeuralNetworks",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/ijcnn/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "C",
+    "rank": 20,
+    "abbreviation": "PRICAI",
+    "full_name": "PacificRimInternationalConferenceonArtificialIntelligence",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/pricai/"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "C",
+    "rank": 21,
+    "abbreviation": "IEEECEC",
+    "full_name": "CongressonEvolutionaryComputation",
+    "publisher": "IEEE",
+    "url": "https://dblp.uni-trier.de/db/conf/cec/index.html"
+  },
+  {
+    "field": "人工智能",
+    "type": "会议",
+    "class": "C",
+    "rank": 22,
+    "abbreviation": "DAI",
+    "full_name": "InternationalConferenceonDistributedArtificialIntelligence",
+    "publisher": "ACM/\nSpringer",
+    "url": "https://dblp.uni-trier.de/db/conf/dai2/index.html"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "会议",
+    "class": "A",
+    "rank": 1,
+    "abbreviation": "CSCW",
+    "full_name": "ACMConferenceOnComputer-SupportedCooperativeWorkAndSocialComputing",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/cscw"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "会议",
+    "class": "A",
+    "rank": 2,
+    "abbreviation": "CHI",
+    "full_name": "ACMConferenceonHumanFactorsinComputingSystems",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/chi"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "会议",
+    "class": "A",
+    "rank": 3,
+    "abbreviation": "UbiComp",
+    "full_name": "ACMinternationaljointconferenceonPervasiveandUbiquitousComputing",
+    "publisher": "ACM",
+    "url": "https://dblp.uni-trier.de/db/conf/huc/"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "会议",
+    "class": "A",
+    "rank": 4,
+    "abbreviation": "UIST",
+    "full_name": "ACMSymposiumonUserInterfaceSoftwareandTechnology",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/uist/"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "会议",
+    "class": "B",
+    "rank": 1,
+    "abbreviation": "GROUP",
+    "full_name": "ACMInternationalConferenceonSupportingGroupWork",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/group/"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "会议",
+    "class": "B",
+    "rank": 2,
+    "abbreviation": "IUI",
+    "full_name": "ACMInternationalConferenceonIntelligentUserInterfaces",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/iui/"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "会议",
+    "class": "B",
+    "rank": 3,
+    "abbreviation": "ISS",
+    "full_name": "ACMInternationalConferenceonInteractiveSurfacesandSpaces",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/tabletop/"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "会议",
+    "class": "B",
+    "rank": 4,
+    "abbreviation": "ECSCW",
+    "full_name": "EuropeanConferenceonComputerSupportedCooperativeWork",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/ecscw/"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "会议",
+    "class": "B",
+    "rank": 5,
+    "abbreviation": "PERCOM",
+    "full_name": "IEEEInternationalConferenceonPervasiveComputingandCommunications",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/percom/"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "会议",
+    "class": "B",
+    "rank": 6,
+    "abbreviation": "MobileHCI",
+    "full_name": "ACMInternationalConferenceonMobileHuman-ComputerInteraction",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/mhci/"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "会议",
+    "class": "B",
+    "rank": 7,
+    "abbreviation": "ICWSM",
+    "full_name": "TheInternationalAAAIConferenceonWebandSocialMedia",
+    "publisher": "AAAI",
+    "url": "https://dblp.org/db/conf/icwsm/index.html"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "会议",
+    "class": "C",
+    "rank": 1,
+    "abbreviation": "DIS",
+    "full_name": "ACMSIGCHIConferenceonDesigningInteractiveSystems",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/ACMdis"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "会议",
+    "class": "C",
+    "rank": 2,
+    "abbreviation": "ICMI",
+    "full_name": "ACMInternationalConferenceonMultimodalInteraction",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/icmi/"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "会议",
+    "class": "C",
+    "rank": 3,
+    "abbreviation": "ASSETS",
+    "full_name": "InternationalACMSIGACCESSConferenceonComputersandAccessibility",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/assets"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "会议",
+    "class": "C",
+    "rank": 4,
+    "abbreviation": "GI",
+    "full_name": "GraphicsInterface",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/graphicsinterface/"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "会议",
+    "class": "C",
+    "rank": 5,
+    "abbreviation": "UIC",
+    "full_name": "IEEEInternationalConferenceonUbiquitousIntelligenceandComputing",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/uic/"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "会议",
+    "class": "C",
+    "rank": 6,
+    "abbreviation": "",
+    "full_name": "IEEEWorldHapticsConference",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/haptics/"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "会议",
+    "class": "C",
+    "rank": 7,
+    "abbreviation": "INTERACT",
+    "full_name": "InternationalConferenceonHuman-ComputerInteractionofInternationalFederationforInformationProcessing",
+    "publisher": "IFIP",
+    "url": "http://dblp.uni-trier.de/db/conf/interact/"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "会议",
+    "class": "C",
+    "rank": 8,
+    "abbreviation": "IDC",
+    "full_name": "ACMInteractionDesignandChildren",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/acmidc/"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "会议",
+    "class": "C",
+    "rank": 9,
+    "abbreviation": "CollaborateCom",
+    "full_name": "InternationalConferenceonCollaborativeComputing:Networking,ApplicationsandWorksharing",
+    "publisher": "Springer",
+    "url": "https://dblp.uni-trier.de/db/conf/colcom/"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "会议",
+    "class": "C",
+    "rank": 10,
+    "abbreviation": "CSCWD",
+    "full_name": "InternationalConferenceonComputerSupportedCooperativeWorkinDesign",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/cscwd/"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "会议",
+    "class": "C",
+    "rank": 11,
+    "abbreviation": "CoopIS",
+    "full_name": "InternationalConferenceonCooperativeInformationSystems",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/coopis/"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "会议",
+    "class": "C",
+    "rank": 12,
+    "abbreviation": "MobiQuitous",
+    "full_name": "InternationalConferenceonMobileandUbiquitousSystems:Computing,NetworkingandServices",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/mobiquitous/"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "会议",
+    "class": "C",
+    "rank": 13,
+    "abbreviation": "AVI",
+    "full_name": "InternationalWorkingConferenceonAdvancedVisualInterfaces",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/avi/"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "会议",
+    "class": "C",
+    "rank": 14,
+    "abbreviation": "GPC",
+    "full_name": "ConferenceonGreen,PervasiveandCloudComputing",
+    "publisher": "Springer",
+    "url": "https://dblp.uni-trier.de/db/conf/gpc/index.html"
+  },
+  {
+    "field": "人机交互与普适计算",
+    "type": "会议",
+    "class": "C",
+    "rank": 15,
+    "abbreviation": "ICXR",
+    "full_name": "CCFInternationalConferenceonExtendedReality",
+    "publisher": "Springer",
+    "url": "https://dblp.uni-trier.de/db/conf/icxr/index.html"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "会议",
+    "class": "A",
+    "rank": 1,
+    "abbreviation": "WWW",
+    "full_name": "InternationalWorldWideWebConference",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/www/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "会议",
+    "class": "A",
+    "rank": 2,
+    "abbreviation": "RTSS",
+    "full_name": "IEEEReal-TimeSystemsSymposium",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/rtss/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "会议",
+    "class": "B",
+    "rank": 1,
+    "abbreviation": "CogSci",
+    "full_name": "AnnualMeetingoftheCognitiveScienceSociety",
+    "publisher": "Psychology\nPress",
+    "url": "https://dblp.uni-trier.de/db/conf/cogsci/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "会议",
+    "class": "B",
+    "rank": 2,
+    "abbreviation": "BIBM",
+    "full_name": "IEEEInternationalConferenceonBioinformaticsandBiomedicine",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/bibm/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "会议",
+    "class": "B",
+    "rank": 3,
+    "abbreviation": "EMSOFT",
+    "full_name": "InternationalConferenceonEmbeddedSoftware",
+    "publisher": "IEEE/ACM\n/IFIP",
+    "url": "http://dblp.uni-trier.de/db/conf/emsoft/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "会议",
+    "class": "B",
+    "rank": 4,
+    "abbreviation": "ISMB",
+    "full_name": "InternationalconferenceonIntelligentSystemsforMolecularBiology",
+    "publisher": "Oxford\nJournals",
+    "url": "https://dblp.org/db/conf/ismb/index.html"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "会议",
+    "class": "B",
+    "rank": 5,
+    "abbreviation": "RECOMB",
+    "full_name": "AnnualInternationalConferenceonResearchinComputationalMolecularBiology",
+    "publisher": "Springer",
+    "url": "http://dblp.uni-trier.de/db/conf/recomb/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "会议",
+    "class": "B",
+    "rank": 6,
+    "abbreviation": "MICCAI",
+    "full_name": "InternationalConferenceonMedicalImageComputingandComputer-AssistedIntervention",
+    "publisher": "Springer",
+    "url": "https://dblp.org/db/conf/miccai/index.html"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "会议",
+    "class": "B",
+    "rank": 7,
+    "abbreviation": "WINE",
+    "full_name": "ConferenceonWebandInternetEconomics",
+    "publisher": "Springer",
+    "url": "https://dblp.org/db/conf/wine/index.html"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "会议",
+    "class": "C",
+    "rank": 1,
+    "abbreviation": "AMIA",
+    "full_name": "AmericanMedicalInformaticsAssociationAnnualSymposium",
+    "publisher": "AMIA",
+    "url": "http://dblp.uni-trier.de/db/conf/amia/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "会议",
+    "class": "C",
+    "rank": 2,
+    "abbreviation": "APBC",
+    "full_name": "AsiaPacificBioinformaticsConference",
+    "publisher": "BioMedCentral",
+    "url": "http://dblp.uni-trier.de/db/conf/apbc/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "会议",
+    "class": "C",
+    "rank": 3,
+    "abbreviation": "IEEEBigData",
+    "full_name": "IEEEInternationalConferenceonBigData",
+    "publisher": "IEEE",
+    "url": "https://dblp.uni-trier.de/db/conf/bigdataconf/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "会议",
+    "class": "C",
+    "rank": 4,
+    "abbreviation": "IEEECLOUD",
+    "full_name": "IEEEInternationalConferenceonCloudComputing",
+    "publisher": "IEEE",
+    "url": "http://dblp.uni-trier.de/db/conf/IEEEcloud/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "会议",
+    "class": "C",
+    "rank": 5,
+    "abbreviation": "SMC",
+    "full_name": "IEEEInternationalConferenceonSystems,Man,andCybernetics",
+    "publisher": "IEEE",
+    "url": "https://dblp.uni-trier.de/db/conf/smc/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "会议",
+    "class": "C",
+    "rank": 6,
+    "abbreviation": "COSIT",
+    "full_name": "InternationalConferenceonSpatialInformationTheory",
+    "publisher": "ACM",
+    "url": "http://dblp.uni-trier.de/db/conf/cosit/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "会议",
+    "class": "C",
+    "rank": 7,
+    "abbreviation": "ISBRA",
+    "full_name": "InternationalSymposiumonBioinformaticsResearchandApplications",
+    "publisher": "Springer",
+    "url": "https://dblp.uni-trier.de/db/conf/isbra/"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "会议",
+    "class": "C",
+    "rank": 8,
+    "abbreviation": "SAGT",
+    "full_name": "InternationalSymposiumonAlgorithmicGameTheory",
+    "publisher": "Springer",
+    "url": "https://dblp.org/db/conf/sagt/index.html"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "会议",
+    "class": "C",
+    "rank": 9,
+    "abbreviation": "SIGSPATIAL",
+    "full_name": "ACMSpecialInterestGrouponSpatialInformation",
+    "publisher": "ACM",
+    "url": "https://dblp.org/db/journals/sigspatial/index.html"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "会议",
+    "class": "C",
+    "rank": 10,
+    "abbreviation": "ICIC",
+    "full_name": "InternationalConferenceonIntelligentComputing",
+    "publisher": "Springer-Nature",
+    "url": "https://dblp.org/db/conf/icic/index.html"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "会议",
+    "class": "C",
+    "rank": 11,
+    "abbreviation": "ICSS",
+    "full_name": "InternationalConferenceonServiceScience",
+    "publisher": "CCF/Springer",
+    "url": "https://dblp.uni-trier.de/db/conf/service/index.html"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "会议",
+    "class": "C",
+    "rank": 12,
+    "abbreviation": "AFT",
+    "full_name": "AdvancesinFinancialTechnologies",
+    "publisher": "Springer",
+    "url": "https://dblp.uni-trier.de/db/conf/aft/index.html"
+  },
+  {
+    "field": "跨学科/交叉/综合/新兴",
+    "type": "会议",
+    "class": "C",
+    "rank": 13,
+    "abbreviation": "IJTCS-FAW",
+    "full_name": "InternationalJointConferenceonTheoreticalComputerScience-FrontierofAlgorithmicWisdom",
+    "publisher": "Springer",
+    "url": "https://dblp.uni-trier.de/db/conf/faw/index.html"
+  }
+]
