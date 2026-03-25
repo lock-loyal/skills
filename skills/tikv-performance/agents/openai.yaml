@@ -1,0 +1,4 @@
+interface:
+  display_name: "TiKV Performance"
+  short_description: "Fetch and assess TiKV performance metrics"
+  default_prompt: "Use $tikv-performance to fetch TiKV metrics and assess them against the built-in benchmarks."
